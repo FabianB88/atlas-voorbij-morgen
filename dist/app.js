@@ -1,5 +1,5 @@
-import {fresh,restore,KEY,xp,level,award,finish} from './state.js';
-import {REGIONS,WORLD,move,pathTo,camera,walkable} from './world.js';
+import {fresh,restore,KEY,xp,level,award,finish} from './state.js?v=2';
+import {REGIONS,WORLD,move,pathTo,camera,walkable} from './world.js?v=2';
 import {EPISODES,FUTURES,NPCS} from './story.js';
 import {routeReady} from './models.js';
 import {renderActivity,handleActivity,initModels} from './activities.js';
