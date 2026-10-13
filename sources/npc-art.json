@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "createdDate": "2026-10-13",
+  "project": "Duurzame Waarde — world adventure",
+  "generationTool": "Built-in image_gen.imagegen",
+  "transparentBackground": true,
+  "useCase": "stylized-concept",
+  "prompt": "Use case: stylized-concept\nAsset type: transparent production NPC sprite atlas for a mature 2.5D top-down exploration adventure.\nInput image: reference only, the attached Jules walking sprite sheet establishes the painterly material rendering, human proportions and elevated camera. Do not copy Jules's identity or clothes.\nPrimary request: THREE distinct full-body adult non-player characters, arranged as three separate figures evenly spaced side by side from left to right. No overlap, all feet on the same baseline, generous transparent margins and spacing to individually crop each figure. All three calmly standing, facing slightly toward the viewer; natural relaxed arms. Seen from an elevated oblique adventure-game camera, head tops and shoulders visible as with the south-facing Jules sprites. Same believable adult anatomy and scale as Jules.\nLeft character, Sam: an adult woman climate researcher, short dark curly hair, pale light research jacket open over a blue sweater, charcoal trousers and sensible boots. Friendly focused expression.\nMiddle character, Ada: an older adult woman repairer and designer, visibly older face and grey hair, copper-colored work apron over an understated cream long-sleeved shirt, dark navy work trousers and sensible sturdy shoes. Practical warm demeanor.\nRight character, Amir: an adult man water/ecology researcher, dark hair, sand-colored plain outdoor field jacket over a muted teal shirt, dark navy trousers and sturdy shoes. Thoughtful approachable expression.\nStyle/medium: refined hand-painted gouache adventure game concept art, subtly textured cloth, clean readable silhouettes, mature editorial aesthetic; same teal/copper/cream palette and finish as reference. No photorealism, no chibi, no cartoon child proportions.\nScene/backdrop: truly transparent alpha background only. No environment, tile, platform, cast shadows, ground plane or colored vignette.\nComposition: exactly three characters, one left, one centre, one right, fully separated, full body and whole footwear visible, stable straight standing poses, equal head-to-foot scale and aligned ground baseline.\nAvoid: text, names, numbers, labels, logos, borders, drawn cell/grid lines, checkerboard printed into the picture, weaponry, additional objects, extra characters, scenery, clipped feet.",
+  "referenceImages": [
+    {
+      "path": "dist/assets/player-walk.png",
+      "role": "style/camera reference only; original identities and outfits requested"
+    }
+  ],
+  "runtimePath": "dist/assets/npcs.png",
+  "originalPath": "sources/character-originals/npcs-generated.png",
+  "generatedSourcePath": "C:/Users/seube/.codex/generated_images/01a134d2-7b6b-71a2-9399-ff4b52562dea/exec-ca0dc6bf-c9ba-45d5-ab3e-a3fd4592ebff.png",
+  "dimensions": {
+    "width": 1536,
+    "height": 1024
+  },
+  "sha256": "df6237e77fd68c6fd33fff5fbeb1074be3ceb3cd54ac7baf951f9a2c54dba08d",
+  "frameMetadata": "dist/assets/npc-frames.json",
+  "postProcessing": "None: original generated PNG copied byte-for-byte. Read-only Pillow measurements produced crop rectangles and foot anchors in JSON.",
+  "characters": [
+    {
+      "id": "sam",
+      "position": "left",
+      "role": "Climate researcher",
+      "appearance": "Short dark curls, pale jacket, blue sweater."
+    },
+    {
+      "id": "ada",
+      "position": "middle",
+      "role": "Repairer/designer",
+      "appearance": "Older woman with grey hair, copper work apron, cream shirt."
+    },
+    {
+      "id": "amir",
+      "position": "right",
+      "role": "Water/ecology researcher",
+      "appearance": "Dark-haired adult man, sand-colored field jacket, muted teal shirt."
+    }
+  ],
+  "visualInspection": {
+    "accepted": true,
+    "observations": [
+      "All three distinct adults are fully visible and separated, with realistic human proportions.",
+      "Painterly clothing, palette, camera and shading match the south-facing Jules sprite.",
+      "Footwear, hands and heads are complete; transparent surroundings, no text or labels, no environment or drawn ground shadow.",
+      "Measured foot baselines differ by up to 10 pixels. Metadata lets rendering align them without modifying source art."
+    ],
+    "limitations": [
+      "One calm front-facing standing pose per NPC; no talking or walking animation.",
+      "Source body heights are 949–957 pixels, much larger than the individual Jules frames. Runtime must use consistent world sizing.",
+      "Maximum generated alpha is 254; the near-transparent antialias fringe is preserved.",
+      "Ada reads as an older adult with grey hair; exact age is not specified or verified."
+    ]
+  },
+  "alphaPolicy": "Full original generated RGBA retained. Use whole cellRect if preservation of every near-transparent fringe is necessary, or sourceRect for a conservative padded visible crop.",
+  "rights": "Original AI-generated project art; no third-party characters, actors or brand imagery referenced."
+}

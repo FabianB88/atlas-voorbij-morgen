@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+import {execFileSync} from 'node:child_process';
+const input='../minor-aice-learning-portal/content/minor-ce-elearnings/courses/duurzaamheid-fundamenten/scormcontent/index.html';
+const sha='de712d3616e669404cded8711e2ed1dc317deec9',repo='FabianB88/minor-ce-elearnings',sourcePath='courses/duurzaamheid-fundamenten/scormcontent/index.html';
+const info=JSON.parse(execFileSync('C:/Program Files/GitHub CLI/gh.exe',['api',`repos/${repo}/contents/${sourcePath}?ref=${sha}`],{encoding:'utf8',maxBuffer:8e6}));
+const local=fs.readFileSync(input),gitSha=crypto.createHash('sha1').update(`blob ${local.length}\0`).update(local).digest('hex');
+if(gitSha!==info.sha)throw Error('Local course differs from pinned official source. Fetch the verified source instead.');
+const html=local.toString('utf8'),match=html.match(/deserialize\("([A-Za-z0-9+/=]+)"\)/);
+if(!match)throw Error('Missing serialized Rise course.');
+const raw=JSON.parse(Buffer.from(match[1],'base64').toString('utf8'));
+fs.writeFileSync('sources/original-course.json',JSON.stringify(raw,null,2)+'\n');
+fs.writeFileSync('sources/provenance.json',JSON.stringify({repo,commit:sha,path:sourcePath,blob:info.sha,verifiedLocalBlob:true,sha256:crypto.createHash('sha256').update(local).digest('hex'),guide:'https://fabianb88.github.io/minor-ce-studentenhandleiding/learnings.html',player:'https://fabianb88.github.io/minor-ce-elearnings/player.html?c=duurzaamheid-fundamenten',extracted:'2026-10-13'},null,2)+'\n');
+console.log(JSON.stringify({keys:Object.keys(raw),courseKeys:Object.keys(raw.course),lessons:raw.course.lessons?.map(l=>({id:l.id,title:l.title,type:l.type,keys:Object.keys(l)}))},null,2));

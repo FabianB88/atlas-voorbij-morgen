@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "file": "npcs.png",
+  "width": 1536,
+  "height": 1024,
+  "format": "RGBA PNG",
+  "grid": {
+    "columns": 3,
+    "rows": 1,
+    "integerCellBoundariesX": [
+      0,
+      512,
+      1024,
+      1536
+    ]
+  },
+  "npcs": [
+    {
+      "id": "sam",
+      "name": "Sam",
+      "column": 0,
+      "cellRect": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 1024
+      },
+      "visibleBoundsAlpha8": {
+        "x": 121,
+        "y": 34,
+        "width": 350,
+        "height": 953
+      },
+      "sourceRect": {
+        "x": 118,
+        "y": 31,
+        "width": 356,
+        "height": 959
+      },
+      "footAnchorInCell": {
+        "x": 292.29,
+        "y": 986
+      },
+      "footAnchorInSourceRect": {
+        "x": 174.29,
+        "y": 955
+      },
+      "footAnchorInSheet": {
+        "x": 292.29,
+        "y": 986
+      },
+      "bodyVisibleHeight": 950
+    },
+    {
+      "id": "ada",
+      "name": "Ada",
+      "column": 1,
+      "cellRect": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 1024
+      },
+      "visibleBoundsAlpha8": {
+        "x": 600,
+        "y": 26,
+        "width": 342,
+        "height": 951
+      },
+      "sourceRect": {
+        "x": 597,
+        "y": 23,
+        "width": 348,
+        "height": 957
+      },
+      "footAnchorInCell": {
+        "x": 257.35,
+        "y": 976
+      },
+      "footAnchorInSourceRect": {
+        "x": 172.35,
+        "y": 953
+      },
+      "footAnchorInSheet": {
+        "x": 769.35,
+        "y": 976
+      },
+      "bodyVisibleHeight": 949
+    },
+    {
+      "id": "amir",
+      "name": "Amir",
+      "column": 2,
+      "cellRect": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 1024
+      },
+      "visibleBoundsAlpha8": {
+        "x": 1077,
+        "y": 25,
+        "width": 375,
+        "height": 961
+      },
+      "sourceRect": {
+        "x": 1074,
+        "y": 22,
+        "width": 381,
+        "height": 967
+      },
+      "footAnchorInCell": {
+        "x": 238.65,
+        "y": 984
+      },
+      "footAnchorInSourceRect": {
+        "x": 188.65,
+        "y": 962
+      },
+      "footAnchorInSheet": {
+        "x": 1262.65,
+        "y": 984
+      },
+      "bodyVisibleHeight": 957
+    }
+  ],
+  "anchorMethod": "Horizontal alpha-weighted torso centre (22–62% of solid body height); vertical anchor is lowest visible shoe pixel at alpha >=128. Original raster is unmodified.",
+  "renderingNotes": [
+    "Draw sourceRect and align footAnchorInSourceRect to the scene ground point.",
+    "NPCs are calm standing figures with the same mature painterly rendering as Jules. Their source art is much larger; choose a consistent world height, rather than the raw pixel dimensions.",
+    "The elevated front-facing camera matches Jules south-facing view. This is one static pose per character, not a movement or directional sheet.",
+    "Baseline offsets are measured per figure. No scene, labels or drawn floor shadow. Full generated alpha retained."
+  ]
+}

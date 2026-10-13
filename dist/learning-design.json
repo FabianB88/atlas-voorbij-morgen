@@ -1,0 +1,51 @@
+{
+  "reviewedOn": "2026-10-13",
+  "scope": "Gerichte ontwerpgrondslag uit primaire publicaties; geen claim op een uitputtende review van alle leerkundige literatuur.",
+  "sources": [
+    {
+      "authors": "Alfieri, Brooks, Aldrich & Tenenbaum",
+      "year": 2011,
+      "title": "Does Discovery-Based Instruction Enhance Learning?",
+      "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Does-Discovery-Based-Instruction-Enhance-Learning/99515521902346",
+      "finding": "De meta-analyses onderscheiden onbegeleid ontdekken van ondersteund onderzoeken. Begeleiding, voorbeelden en feedback maken wezenlijk verschil; alleen zelf laten zoeken is voor een beginner onvoldoende.",
+      "application": "De situatie staat voor de opdracht. NPC-vragen, gewone taal, proefvoorbeelden en gerichte feedback blijven beschikbaar voordat onafhankelijke toepassing wordt gevraagd."
+    },
+    {
+      "authors": "Clark, Tanner-Smith & Killingsworth",
+      "year": 2016,
+      "title": "Digital Games, Design, and Learning: A Systematic Review and Meta-Analysis",
+      "url": "https://journals.sagepub.com/doi/10.3102/0034654315582065",
+      "finding": "Digitale spellen hadden gemiddeld een positief leereffect in de onderzochte vergelijkingen. De uitkomsten verschillen, en ondersteunende ontwerpkenmerken tellen mee: het medium alleen bepaalt niet het leren.",
+      "application": "Handelingen sluiten aan op de leerinhoud: energie verdelen, materiaal behouden, oorzaken volgen en verschillende voorstellen controleren. Een nieuwe omgeving levert op zichzelf geen leercredit."
+    },
+    {
+      "authors": "Sailer & Homner",
+      "year": 2020,
+      "title": "The Gamification of Learning: a Meta-analysis",
+      "url": "https://link.springer.com/article/10.1007/s10648-019-09498-w",
+      "finding": "De meta-analyse vond positieve gemiddelde effecten op leren, motivatie en gedrag, met variatie en minder stabiele resultaten voor sommige uitkomsten. Het geeft geen garantie voor een specifieke combinatie van punten of spelonderdelen.",
+      "application": "Levels tonen onderzoeksvoortgang en geven routehulpen. Alle basisuitleg is vanaf het begin vrij; geen ranglijst, straf voor hulp of punten als morele totaalscore."
+    },
+    {
+      "authors": "Dai, Xu & Xing",
+      "year": 2025,
+      "title": "Gamified learning impact: a meta-analysis of game element combinations on students’ learning outcomes",
+      "url": "https://link.springer.com/article/10.1007/s11423-025-10493-y",
+      "access": "Uitgeversabstract; de volledige tekst is niet gelezen.",
+      "finding": "De meta-analyse van 37 gerandomiseerde of quasi-gerandomiseerde studies vond een positief gemiddeld effect en verschillen tussen combinaties van spelonderdelen. Het abstract noemt regels/doelen, uitdaging en mysterie als de combinatie met het grootste effect in die analyse.",
+      "application": "Een duidelijke opdracht en betekenisvolle onderzoeksvraag geven richting. Uitdaging zit in het volgen van gevolgen, met vrije uitleg als ondersteuning. De combinatie wordt hier als ontwerpidee gebruikt, niet als bewezen recept voor deze adventure."
+    }
+  ],
+  "instructionalPattern": [
+    "Korte concrete situatie",
+    "Een begrijpelijk voorbeeld of waarneming",
+    "Zelf veranderen en gevolgen bekijken",
+    "Een verklaring met feedback",
+    "Nieuwe toepassing",
+    "Eigen notitie of bespreking"
+  ],
+  "blendedUse": "De docent kan het dossier gebruiken voor gesprek over afwegingen, aannames en bronnen. De adventure biedt een zelfstandige kernroute; een nabespreking kan verdieping toevoegen.",
+  "generationalClaims": "Geen vaste leerstijl of spelvoorkeur wordt aan een generatie toegeschreven. Keuzevrijheid, duidelijke voortgang, korte tekstlagen en optionele verdieping zijn ontwerpkeuzes, geen bewezen voorkeur van iedere student.",
+  "accessibility": "Lopen met toetsen of klikken, mobiele toetsen, duidelijke labels, altijd beschikbare uitleg, animatie uitzetten en een tekstueel begrippenoverzicht. Volwaardige schermlezer-equivalentie voor de ruimtelijke canvaswereld is nog niet geclaimd.",
+  "claimLimit": "Brondekking en functionele tests ondersteunen inhoudelijke en technische kwaliteit. Ze bewijzen geen empirische leerwinst van Atlas ten opzichte van de oorspronkelijke e-learning."
+}

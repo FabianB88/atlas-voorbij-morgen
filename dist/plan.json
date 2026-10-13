@@ -1,0 +1,830 @@
+{
+  "title": "Atlas · Voorbij morgen",
+  "version": "0.1.0",
+  "scope": "Een nieuwe wereldadventure met 36 geselecteerde essentiële begrippen, twee ondersteunende begrippen en twee naslagonderwerpen. Geen vervangingsclaim voor alle incidentele details in de oorspronkelijke export.",
+  "experience": "Echte loopanimatie en camera, vliegen tussen buitenregio’s, dezelfde plek in twee verbeelde toekomsten, afwisselende leerhandelingen.",
+  "episodes": [
+    {
+      "id": "climate",
+      "name": "Waar de warmte blijft",
+      "region": "coast",
+      "intro": "Je bent Jules, veldonderzoeker bij Atlas. Klimaat is het gebruikelijke patroon van weer over vele jaren. Bij klimaatverandering verschuiven die patronen. Sam onderzoekt waarom de aarde nu opwarmt. Begin bij het weerarchief: wat vertelt één hete middag, en wat ontdek je pas door jaren te vergelijken?",
+      "goal": "Ontdek wat klimaatverandering is en volg waardoor extra broeikasgassen de aarde opwarmen.",
+      "steps": [
+        [
+          "weather",
+          "Vergelijk een weersdag met een langjarige meetreeks",
+          "weather"
+        ],
+        [
+          "greenhouse",
+          "Volg zonlicht en warmtestraling bij de meetopstelling",
+          "heat"
+        ]
+      ],
+      "concepts": [
+        "climate-change",
+        "weather-climate",
+        "greenhouse-energy-flow",
+        "human-emissions"
+      ],
+      "reward": "Het tijdkompas"
+    },
+    {
+      "id": "futures",
+      "name": "Dezelfde plek, twee morgendagen",
+      "region": "coast",
+      "intro": "Het tijdvenster laat twee mogelijke versies van 2060 zien. In de ene blijven mondiale uitstoot en lokale voorbereiding ongunstig. In de andere worden wereldwijd uitstoot en lokaal risico sterker aangepakt. De beelden zijn verbeeldingen, geen voorspellingen.",
+      "goal": "Vergelijk oorzaken, gevolgen en ingrepen. Kijk naar mensen en middelen, naast het klimaat.",
+      "steps": [
+        [
+          "visit-pressure",
+          "Bezoek en onderzoek de toekomst onder druk",
+          "portal"
+        ],
+        [
+          "visit-recovery",
+          "Bezoek en onderzoek de beter voorbereide toekomst",
+          "portal"
+        ],
+        [
+          "responses",
+          "Onderscheid minder uitstoten van omgaan met gevolgen",
+          "water"
+        ],
+        [
+          "boundaries",
+          "Onderzoek natuurgrenzen, water en wie de gevolgen draagt",
+          "boundary"
+        ]
+      ],
+      "concepts": [
+        "climate-impact-chain",
+        "mitigation-adaptation",
+        "sustainable-development",
+        "people-planet-prosperity",
+        "planetary-boundaries",
+        "biodiversity-services",
+        "nutrients-water",
+        "system-boundary"
+      ],
+      "reward": "Atlas, jouw vluchtkaart"
+    },
+    {
+      "id": "energy",
+      "name": "Energie overzee",
+      "region": "workshop",
+      "intro": "Ada heeft een reparatiehaven. De machines en woningen hebben stroom nodig, ook als de zon weg is of de wind stilvalt. Vlieg erheen en help haar de energievoorziening onderzoeken.",
+      "goal": "Volg energie van bron naar gebruik en onderzoek waarom minder uitstoot nog niet meteen minder opgehoopte CO₂ betekent.",
+      "steps": [
+        [
+          "power",
+          "Laat een plan overdag, ’s nachts en bij windstilte werken",
+          "power"
+        ],
+        [
+          "energyCarrier",
+          "Onderzoek wat een bron, drager en opslag doen",
+          "carrier"
+        ],
+        [
+          "emissions",
+          "Vergelijk uitstoot met de hoeveelheid die ophoopt",
+          "carrier"
+        ]
+      ],
+      "concepts": [
+        "energy-transition",
+        "grid-congestion",
+        "emissions-accumulation",
+        "carbon-budget"
+      ],
+      "reward": "De energielens"
+    },
+    {
+      "id": "circular",
+      "name": "Het tweede leven",
+      "region": "workshop",
+      "intro": "Op Ada’s werkbank ligt een tablet waarvan alleen de batterij defect is. De behuizing en het scherm zijn bruikbaar. De eigenaar wil hem vervangen. Volg wat iedere route met product, materialen en werk doet.",
+      "goal": "Kies behoud passend bij de toestand van het product en onderzoek wie belang heeft bij langer gebruik.",
+      "steps": [
+        [
+          "product",
+          "Diagnoseer het tablet en kies een passende route",
+          "product"
+        ],
+        [
+          "ladder",
+          "Volg waardebehoud en de volledige levenscyclus",
+          "product"
+        ],
+        [
+          "ownership",
+          "Maak een onderhoudscontract dat langer gebruik beloont",
+          "contract"
+        ]
+      ],
+      "concepts": [
+        "linear-circular",
+        "r-ladder",
+        "design-for-long-life",
+        "service-ownership",
+        "sharing-and-rebound",
+        "life-cycle-assessment"
+      ],
+      "reward": "Het materialenpaspoort"
+    },
+    {
+      "id": "value",
+      "name": "Meer dan één rekening",
+      "region": "workshop",
+      "intro": "De haven wil uitbreiden. De financiële begroting laat niet alle bijdragen en gevolgen zien. Werknemers vragen om veilige vaardigheden, de omgeving om schoon water, en Ada om een werkbaar bedrijf.",
+      "goal": "Breng verschillende soorten waarde en beide richtingen van invloed tussen bedrijf en wereld in beeld.",
+      "steps": [
+        [
+          "capitals",
+          "Onderzoek de zes middelen waarop de haven draait",
+          "value"
+        ],
+        [
+          "outcomes",
+          "Onderscheid geleverde producten van gevolgen voor mensen en natuur",
+          "value"
+        ],
+        [
+          "materiality",
+          "Volg bedrijf → omgeving én omgeving → bedrijf",
+          "value"
+        ]
+      ],
+      "concepts": [
+        "six-capitals",
+        "multiple-value-creation",
+        "double-materiality",
+        "stakeholder-perspectives",
+        "indicators"
+      ],
+      "reward": "Het waardekompas"
+    },
+    {
+      "id": "nature",
+      "name": "Leren van het levende",
+      "region": "valley",
+      "intro": "In de vallei onderzoekt Amir hoe planten met warmte en water omgaan. Hij zoekt werkende principes voor een ontwerp. Een ontwerp dat op een blad lijkt, is nog niet bewezen duurzaam.",
+      "goal": "Gebruik een natuurlijk principe, test de werking en onderzoek of een ingreep ook herstel en toegang ondersteunt.",
+      "steps": [
+        [
+          "biomimicry",
+          "Vertaal een werkend natuurlijk principe naar een prototype",
+          "leaf"
+        ],
+        [
+          "water",
+          "Test schaduw, wateropvang en een toegankelijke route",
+          "water"
+        ],
+        [
+          "natureLimits",
+          "Beoordeel ontwerp en herstel zonder “natuurlijk” als garantie",
+          "leaf"
+        ]
+      ],
+      "concepts": [
+        "biomimicry",
+        "lifes-principles",
+        "regenerative-design"
+      ],
+      "reward": "De proefveldkaart"
+    },
+    {
+      "id": "system",
+      "name": "Het gevolg dat terugkomt",
+      "region": "valley",
+      "intro": "Een succesvol project kan een probleem verplaatsen of zichzelf versterken. Amir volgt waarom verkopen, investeren en capaciteit elkaar beïnvloeden. Daarna moet je een traag gevolg leren herkennen.",
+      "goal": "Maak echte terugkoppelingen zichtbaar en zoek een ingreep die het mechanisme raakt.",
+      "steps": [
+        [
+          "loop",
+          "Sluit een oorzaak-gevolglus en bepaal haar richting",
+          "loop"
+        ],
+        [
+          "delays",
+          "Volg een voorraad en een ingreep met vertraging",
+          "delay"
+        ],
+        [
+          "wicked",
+          "Ontwerp een kleine toetsbare stap bij een ingewikkeld probleem",
+          "delay"
+        ]
+      ],
+      "concepts": [
+        "systems-thinking",
+        "causal-loop-diagram",
+        "climate-feedback",
+        "tipping-points",
+        "wicked-problems",
+        "lock-in-path-dependence",
+        "leverage-points"
+      ],
+      "reward": "De systeemlens"
+    },
+    {
+      "id": "decision",
+      "name": "Een toekomst die je kunt verantwoorden",
+      "region": "workshop",
+      "intro": "Je neemt wat je hebt gezien mee terug naar de haven. Een school vraagt een nieuw leveringsplan. Betrouwbaarheid, toegankelijkheid, werk, materialen en uitstoot tellen mee. Geen enkel plaatje neemt de beslissing voor je.",
+      "goal": "Onderbouw een werkbaar voorstel, pas je kennis toe op een andere situatie en benoem wat je nog moet toetsen.",
+      "steps": [
+        [
+          "strategy",
+          "Maak een voorstel met gevolgen, rollen en een toetsmoment",
+          "decision"
+        ],
+        [
+          "transfer",
+          "Gebruik de kern bij een nieuwe product- en energievraag",
+          "decision"
+        ],
+        [
+          "uncertainty",
+          "Geef aan wat je weet, aanneemt en later controleert",
+          "decision"
+        ]
+      ],
+      "concepts": [
+        "decisions-under-uncertainty"
+      ],
+      "reward": "Jouw Atlas-dossier"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "climate-change",
+      "term": "Klimaatverandering",
+      "priority": "essential",
+      "episode": 1,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9",
+        "lhfcaj9w89zhs7q5pva13epu"
+      ],
+      "experience": "Loop door de kustplaats en leg recente waarnemingen naast een langjarige meetreeks. Het verhaal begint bij een herkenbaar probleem, niet bij een woordenlijst.",
+      "check": "De speler gebruikt een langjarige trend als bewijs en verklaart waarom één weersdag onvoldoende is."
+    },
+    {
+      "id": "weather-climate",
+      "term": "Weer en klimaat",
+      "priority": "support",
+      "episode": 1,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9",
+        "lhfcaj9w89zhs7q5pva13epu"
+      ],
+      "experience": "Een kort NPC-gesprek maakt duidelijk waarom een koele dag de langjarige grafiek niet weerlegt.",
+      "check": "De speler kiest het juiste soort informatie voor een dagplanning en een langetermijnbesluit."
+    },
+    {
+      "id": "greenhouse-energy-flow",
+      "term": "Broeikaseffect en energiestromen",
+      "priority": "essential",
+      "episode": 1,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "qxnn0liruuoy9c3ngcpo8w9x",
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "experience": "Een zichtbare energiestroomproef verbindt het alledaagse verhaal met de oorzaak van opwarming. De speler verandert één factor en ziet het mechanisme.",
+      "check": "De speler onderscheidt zonlicht van warmtestraling en verklaart wat extra CO₂ verandert."
+    },
+    {
+      "id": "human-emissions",
+      "term": "Broeikasgasuitstoot door menselijk handelen",
+      "priority": "essential",
+      "episode": 1,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00av357l8wgijfpw",
+        "7c66d0d1-41d6-4c15-b177-15a76c12ae33"
+      ],
+      "experience": "Vlieg naar verschillende locaties van dezelfde productketen en volg waar energie nodig is en welke uitstoot daarbij ontstaat.",
+      "check": "De speler koppelt een activiteit aan een verklaarde uitstootbron en kiest een ingreep die die bron werkelijk vermindert."
+    },
+    {
+      "id": "emissions-accumulation",
+      "term": "Uitstoot en ophoping",
+      "priority": "essential",
+      "episode": 3,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00as357l0y8yk8kg",
+        "cmhaf84oa00b0357lhr4kavrm"
+      ],
+      "experience": "Werk met een expliciet vereenvoudigd voorraadmodel. Vergelijk snel minder uitstoten met lang door blijven uitstoten; voorkom een knop die de planeet direct afkoelt.",
+      "check": "De speler legt uit waarom een lagere jaarlijkse uitstoot niet automatisch betekent dat de CO₂-concentratie meteen daalt."
+    },
+    {
+      "id": "climate-impact-chain",
+      "term": "Klimaatgevolgen en kwetsbaarheid",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cmhaf6mvw000f357l1t9eiia0",
+        "cmhagkk8k009t357lfmj5ub5q"
+      ],
+      "experience": "Bezoek in beide mogelijke toekomsten dezelfde bewoners en plekken. Bouw de keten op van klimaatprikkel naar blootstelling, schade en gevolgen voor werk of gezondheid.",
+      "check": "De speler verklaart waarom eenzelfde klimaatprikkel tot verschillende schade kan leiden."
+    },
+    {
+      "id": "mitigation-adaptation",
+      "term": "Mitigatie en adaptatie",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "btoscmbi5rct5lo9iz2yp2ep",
+        "t8ayclcq3agdemkk6g952pr9",
+        "n3joe3kiooku2dsfrqih81g7"
+      ],
+      "experience": "Voer een lokale water- of schaduwingreep uit en herstel daarnaast een energievoorziening. Laat de speler zien welk gevolg elk onderdeel verandert.",
+      "check": "De speler kan een maatregel uitleggen als uitstootreductie, aanpassing of beide, met het bijbehorende mechanisme."
+    },
+    {
+      "id": "carbon-budget",
+      "term": "Koolstofbudget en netto nul",
+      "priority": "essential",
+      "episode": 3,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "qxnn0liruuoy9c3ngcpo8w9x",
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "experience": "Leg twee uitstootroutes over tijd naast elkaar. Spelgetallen worden als vereenvoudigde aanname gemarkeerd; geen actuele wereldbudgetmeter zonder datum en bron.",
+      "check": "De speler vergelijkt totale uitstoot over een periode en noemt waarom budgetten een onzekerheidsmarge hebben."
+    },
+    {
+      "id": "climate-feedback",
+      "term": "Terugkoppeling in het klimaat",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "wuvrig2g71swnpzyfu9857b6",
+        "cmhaf84oa00b0357lhr4kavrm"
+      ],
+      "experience": "Vlieg over een poolgebied en verander in een kleine proef het reflecterende oppervlak. Laat de volledige lus zien, inclusief de terugweg naar temperatuur.",
+      "check": "De speler legt alle stappen van één gesloten terugkoppeling uit en verwart positief niet met wenselijk."
+    },
+    {
+      "id": "tipping-points",
+      "term": "Kantelpunten",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "wuvrig2g71swnpzyfu9857b6",
+        "cmhaf84oa00b0357lhr4kavrm",
+        "cmhkovz7w00pb357j4gmocgix"
+      ],
+      "experience": "Een toekomstwaarneming toont een moeilijk herstelbare verandering en vermeldt tijdshorizon en onzekerheid. De opdracht gaat over risico en tijdig handelen.",
+      "check": "De speler onderscheidt omkeerbare schade, langdurige reactie en mogelijk kantelpunt zonder een exacte drempel te verzinnen."
+    },
+    {
+      "id": "energy-transition",
+      "term": "Energietransitie",
+      "priority": "essential",
+      "episode": 3,
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "rkwaz8fj8i9y353qcylb8q06",
+        "cmhaf84oa00b4357lmy4ripzs",
+        "s51ot2ra3uwlzbcupbtbf8y1"
+      ],
+      "experience": "Een reparatie- en routeopdracht laat de speler techniek, vraag, net en organisatie samen aanpassen, met verschillende consequenties.",
+      "check": "De speler verklaart waarom alleen een nieuwe energiebron niet alle delen van de transitie oplost."
+    },
+    {
+      "id": "grid-congestion",
+      "term": "Netcongestie en flexibiliteit",
+      "priority": "essential",
+      "episode": 3,
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmhafau5l00o7357lvrgsiva6",
+        "cmhafau5l00of357lqqldytbm",
+        "cmi36mkq204up357mgusvd24w"
+      ],
+      "experience": "Een tijdlijn- of schakelpuzzel verlaagt een concrete lokale piek. Het spel toont transportgrens en laadtijd; geen generieke batterij die altijd wint.",
+      "check": "De speler onderscheidt voldoende energie over de dag van voldoende lokaal transportvermogen op ieder moment."
+    },
+    {
+      "id": "sustainable-development",
+      "term": "Duurzame ontwikkeling",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cfbkblb19f37udfj0pm52fyh",
+        "afrk140s80orgq000i0mnjka",
+        "cmhaf6mvv000b357lodvmuq8k"
+      ],
+      "experience": "De wereldreis verbindt een lokaal besluit met bewoners, een leverancier elders en een toekomstige situatie.",
+      "check": "De speler benoemt gevolgen nu, elders en later, met een herkenbare onderlinge afhankelijkheid."
+    },
+    {
+      "id": "people-planet-prosperity",
+      "term": "People, Planet, Prosperity en Triple Bottom Line",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "afrk140s80orgq000i0mnjka",
+        "cmhaf6mvv000b357lodvmuq8k",
+        "cmhkixnyw00m8357lgov0ncy1"
+      ],
+      "experience": "Laat drie NPC's verschillende gevolgen ervaren; vergelijk uitkomsten naast elkaar, zonder één groene geluksscore.",
+      "check": "De speler onderscheidt bedrijfswinst van brede welvaart en verklaart een spanning tussen de dimensies."
+    },
+    {
+      "id": "sdg-reference",
+      "term": "Sustainable Development Goals",
+      "priority": "referenceOnly",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "ph0hspi6voij8f82yt7tihv7",
+        "dcswn9ddxhsrj9thmj34pqyd"
+      ],
+      "experience": "Een vrijwillige wereldatlas koppelt bezochte situaties aan relevante doelen. Geen quiz waarin de speler alle nummers moet onthouden.",
+      "check": "Geen afzonderlijke voortgangspoort."
+    },
+    {
+      "id": "planetary-boundaries",
+      "term": "Planetaire grenzen",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cajuckn8h3ynzim4kbm2xrr3",
+        "cmhaf6mw0000u357luawswou7",
+        "dfmojx88hzxx4b8za3ny3krq"
+      ],
+      "experience": "Verken meerdere regio's op een wereldkaart en ontdek waar een ingreep druk vermindert of verplaatst. De negen processen staan in naslag, niet als namenpoort.",
+      "check": "De speler ziet dat klimaat slechts één onderdeel is en identificeert een verschuiving van milieudruk."
+    },
+    {
+      "id": "biodiversity-services",
+      "term": "Biodiversiteit en ecosysteemdiensten",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw0000p357lxgzhko7x",
+        "cmhaf6mw10014357lnmy2bsmi"
+      ],
+      "experience": "Een route door een landbouwgebied laat samenwerking tussen planten, bodem, water en mensen zien. Herstel opent functioneel een route of voorziening.",
+      "check": "De speler verbindt een ecosysteemfunctie aan een concreet belang van mensen zonder natuur uitsluitend tot geld te reduceren."
+    },
+    {
+      "id": "nutrients-water",
+      "term": "Stikstof, fosfor en eutrofiëring",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw10014357lnmy2bsmi",
+        "qcgc2vxj49h69wupnm7d6az4"
+      ],
+      "experience": "Volg een waterstroom naar de bron. Een veldingreep, lozing en waterkwaliteit komen samen in een oorzaak-gevolgopdracht.",
+      "check": "De speler verklaart de keten en onderscheidt noodzakelijke voedingsstoffen van schadelijke overbelasting."
+    },
+    {
+      "id": "system-boundary",
+      "term": "Systeemgrenzen",
+      "priority": "essential",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cmhkp5uul00b6357l06m9b1c7",
+        "dcswn9ddxhsrj9thmj34pqyd"
+      ],
+      "experience": "De speler zoomt uit van een gebouw naar een keten en ontdekt een eerder gemist gevolg elders of later.",
+      "check": "De speler noemt wat buiten de gekozen grens valt en hoe dat de conclusie kan veranderen."
+    },
+    {
+      "id": "systems-thinking",
+      "term": "Systeemdenken",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "rsr9yaxynvnb3t0zu2rfi7f1",
+        "cmhafa70n00nf357lw6z41wcp"
+      ],
+      "experience": "Laat één ingreep voelbaar doorwerken op meerdere locaties. Daarna benoemt de speler het mechanisme achter die samenhang.",
+      "check": "De speler verklaart een mislukte lokale maatregel via een relatie met een ander deel van het systeem."
+    },
+    {
+      "id": "linear-circular",
+      "term": "Lineaire en circulaire economie",
+      "priority": "essential",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "aiqqr1hvfn1jl331ceozryis",
+        "cmhaf7dnm009w357lkix57uak"
+      ],
+      "experience": "Een product reist met de speler langs productie, gebruik, reparatie en afdanken. De route kan veranderen door ontwerp en organisatie.",
+      "check": "De speler onderscheidt langer productgebruik van materiaalrecycling en legt uit hoe nieuwe grondstoffenvraag kan dalen."
+    },
+    {
+      "id": "r-ladder",
+      "term": "R-ladder en waardebehoud",
+      "priority": "essential",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "rh9guukvm5osqo1tca5sm9w1",
+        "cmhaf7dnm009z357lsk2jfirs",
+        "cmhaf7dnn00ap357lrqd587xn"
+      ],
+      "experience": "Een werkplaats biedt echte alternatieven voor hetzelfde probleem. De keuze beïnvloedt gereedschap, materiaalroute en beschikbare middelen.",
+      "check": "De speler kiest een passende strategie en benoemt wat behouden blijft en welke extra bewerking nodig is."
+    },
+    {
+      "id": "design-for-long-life",
+      "term": "Ontwerpen voor reparatie en hergebruik",
+      "priority": "essential",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "andkuzojfiyqqc3uc0skrcd3",
+        "cmhaf7dnm00a5357l5qt9x0nu",
+        "cmhkp9yo80119357lstl07l68"
+      ],
+      "experience": "Een tastbare montagepuzzel laat de speler onderdelen combineren en het product vervolgens onderhouden of terugnemen.",
+      "check": "De speler kan uitleggen waarom een ontwerpkeuze een latere R-strategie mogelijk maakt of verhindert."
+    },
+    {
+      "id": "service-ownership",
+      "term": "Product als dienst en eigenaarschapprikkels",
+      "priority": "essential",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "b7ug2pyxin5w7wks4woixayg",
+        "cmhaf7dnm00a5357l5qt9x0nu"
+      ],
+      "experience": "Onderhandel een onderhouds- en terugnameafspraak. Wie kosten en restwaarde draagt, verandert zichtbaar het gedrag van de aanbieder.",
+      "check": "De speler wijst de contractregel aan die een prikkel voor levensduur geeft en noemt een voorwaarde of risico."
+    },
+    {
+      "id": "sharing-and-rebound",
+      "term": "Delen en onbedoeld extra gebruik",
+      "priority": "support",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhaf7dnm00a5357l5qt9x0nu"
+      ],
+      "experience": "Volg de gebruiksroute van een gedeeld product en controleer welk gebruik het vervangt. Een vervolgkeuze toont een mogelijk onbedoeld effect.",
+      "check": "De speler onderbouwt of delen in deze situatie productie of gebruik vermindert."
+    },
+    {
+      "id": "life-cycle-assessment",
+      "term": "Levenscyclusanalyse (LCA)",
+      "priority": "essential",
+      "episode": 4,
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhah48vh00ds357lykr4b465",
+        "cmhkm591p00c9357lhrula2eb"
+      ],
+      "experience": "Een keteninspectie verdeelt de informatie over locaties. Een vergelijkingswerkbank gebruikt dezelfde geleverde functie, niet alleen gewicht of aanschafprijs.",
+      "check": "De speler herkent een gemiste levensfase of oneerlijke vergelijking en kan de conclusie aanpassen."
+    },
+    {
+      "id": "six-capitals",
+      "term": "De zes kapitalen",
+      "priority": "essential",
+      "episode": 5,
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "yh4yseo00vbrgd6peaw013z2",
+        "cmhaf8sti00ld357lifnrv9o1",
+        "cmhko9j8j00mk357lvitwnwlk"
+      ],
+      "experience": "Een bedrijfsbezoek maakt alle zes zichtbaar als mensen, voorwerpen, kennis, relaties en natuur. De speler maakt afhankelijkheden begrijpelijk.",
+      "check": "De speler onderscheidt bijvoorbeeld een machine, medewerkersvaardigheid en vastgelegde ontwerpkennis en verklaart hun samenhang."
+    },
+    {
+      "id": "multiple-value-creation",
+      "term": "Meervoudige waardecreatie",
+      "priority": "essential",
+      "episode": 5,
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "cmhko9j8j00mk357lvitwnwlk",
+        "ikuguioj0ea9qvry5bzypr66",
+        "d67g8hd2q9n0ut5kpdoqetdc"
+      ],
+      "experience": "Een besluit verandert meerdere afzonderlijke uitkomsten. De speler ziet ook verlies en afruilen; die worden niet weggestreept tot één totaalscore.",
+      "check": "De speler verklaart een verandering in minstens twee kapitalen en noemt wie daarvan profiteert of nadeel heeft."
+    },
+    {
+      "id": "double-materiality",
+      "term": "Dubbele materialiteit",
+      "priority": "essential",
+      "episode": 5,
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "hvm6qn2a9h3tovh5xtzcen3d",
+        "cmhaf8sti00lk357lubk30tde"
+      ],
+      "experience": "Onderzoek eerst buiten de organisatie en daarna binnen. Een bord met twee richtingen toont beide onderzoeken; lage financiële schade wist ernstige impact niet uit.",
+      "check": "De speler onderscheidt impact en financieel risico en accepteert dat één van beide voldoende relevant kan zijn."
+    },
+    {
+      "id": "stakeholder-perspectives",
+      "term": "Belanghebbenden en belangen",
+      "priority": "essential",
+      "episode": 5,
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmi38l2yd0bi7357m4sr9fdtd",
+        "cmhafau5l00oi357lftuab2jy"
+      ],
+      "experience": "Meerdere NPC's hebben eigen kennis en volgen op je besluit met een concreet gevolg. De speler kan doorvragen en ontbrekende stemmen zoeken.",
+      "check": "De speler brengt een minder invloedrijke maar getroffen groep in beeld en verklaart welke informatie die groep toevoegt."
+    },
+    {
+      "id": "indicators",
+      "term": "Indicatoren en KPI's",
+      "priority": "essential",
+      "episode": 5,
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "qz13lz9uouhjbttqi71a62fo",
+        "cmhaf8sti00ln357ljmg2dwcu"
+      ],
+      "experience": "De speler stelt een meetplan op en keert later terug naar echte spelwaarnemingen. Meetprestatie is geen morele score.",
+      "check": "De speler onderscheidt een activiteitenteller van een uitkomst en totale impact van impact per eenheid."
+    },
+    {
+      "id": "biomimicry",
+      "term": "Biomimicry",
+      "priority": "essential",
+      "episode": 6,
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "snrms5xekqtctxfrn71yoepi",
+        "cmhaf9noe00m3357lazmkvmad",
+        "1226f9d8-4298-462d-b614-4f6e631e8d9a"
+      ],
+      "experience": "De speler observeert buiten een functie, bouwt een eenvoudig prototype en test het in een andere situatie.",
+      "check": "De speler noemt het nagebootste mechanisme en onderscheidt dat van alleen uiterlijk of biobased materiaal."
+    },
+    {
+      "id": "lifes-principles",
+      "term": "Life's Principles",
+      "priority": "essential",
+      "episode": 6,
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "psj5xxc3g7ccqt5zwfcy179y",
+        "cmhaf9noe00m7357l70w2d81z",
+        "cmhaf9nof00mx357ly4p3rtyv"
+      ],
+      "experience": "Een ontwerpopdracht laat materiaal, lokale omstandigheden en aanpasbaarheid samen kiezen, met informatie over hun werking.",
+      "check": "De speler koppelt een ontwerpkeuze aan een uitgelegd principe en controleert een mogelijk nadeel."
+    },
+    {
+      "id": "regenerative-design",
+      "term": "Regeneratief ontwerp",
+      "priority": "essential",
+      "episode": 6,
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "gkzy5pfrs3q880i6t91ro5l0",
+        "cmhaf9noe00md357leevtdy7v",
+        "hjecduosugo1r2davhe9174g"
+      ],
+      "experience": "Een herstelopdracht verandert een plek zichtbaar en koppelt die verandering aan een meetplan. Geen gratis regeneratief-label voor een groen uiterlijk.",
+      "check": "De speler onderscheidt minder schade van aangetoond herstel en noemt wat nog gemeten moet worden."
+    },
+    {
+      "id": "wicked-problems",
+      "term": "Wicked problems",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "y7p134ihxuygxb6nrhxrso4d",
+        "cmhafa70n00n9357lmwas7b7a"
+      ],
+      "experience": "Een nieuw verzoek of tegeneffect na een ingreep verandert de missie. De speler herziet het plan in plaats van alleen het juiste antwoord te zoeken.",
+      "check": "De speler legt uit waarom een maatregel in deze context betwist of onvoldoende is en onderscheidt waarden van feitelijke claims."
+    },
+    {
+      "id": "causal-loop-diagram",
+      "term": "Causaal lussendiagram (CLD)",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "kvsxrfbfmj9roghnh39k6ij7",
+        "cmhafa70n00nj357lxm2v88ld",
+        "cmi33vwc701rj357mm3lobb93",
+        "cmi34n6o002mt357mbuj4gog8"
+      ],
+      "experience": "De speler volgt eerst een zichtbaar mechanisme en tekent daarna slechts enkele pijlen. Een bestaande uitgelegde lus wordt aangepast aan een nieuwe situatie.",
+      "check": "De speler sluit een echte lus, licht iedere pijl toe en maakt geen voorspelling van lusdominantie alleen uit plus- en mintekens."
+    },
+    {
+      "id": "lock-in-path-dependence",
+      "term": "Lock-in en padafhankelijkheid",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "c09jwmk6223ged5tifs8pi6y",
+        "cmhafa70o00no357lz4iknov5",
+        "cmhafa70o00nr357l8ptdguna"
+      ],
+      "experience": "Een route blijft geblokkeerd door een contract of ontwerpbeperking. De speler moet de oorzaak veranderen, niet een willekeurige sleutel vinden.",
+      "check": "De speler identificeert een concrete beperkende structuur en een ingreep die die structuur kan wijzigen."
+    },
+    {
+      "id": "leverage-points",
+      "term": "Hefboompunten",
+      "priority": "essential",
+      "episode": 7,
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "cmhafa70n00nf357lw6z41wcp",
+        "35548634-0281-4f6e-975a-da42fa6b17c6"
+      ],
+      "experience": "Een informatie-, ontwerp- of contractkeuze verandert meerdere locaties. Het spel toont welk pad die verandering volgt en welke reactie tegenwerkt.",
+      "check": "De speler verklaart waarom de gekozen ingreep meer kan doen dan een symptoommaatregel en benoemt een beperking."
+    },
+    {
+      "id": "decisions-under-uncertainty",
+      "term": "Afwegen, scenario's en bijsturen",
+      "priority": "essential",
+      "episode": 8,
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "hkzoitdzg2u4nwrxmeak9awn",
+        "cmhafau5l00oa357lnz6d4y0o",
+        "cmhafau5l00oi357lftuab2jy",
+        "cmi38l2yd0bi7357m4sr9fdtd"
+      ],
+      "experience": "De wereldreis eindigt bij een besluit dat de speler met bewijs en aannames toelicht. Daarna bezoekt die beide mogelijke toekomsten opnieuw en controleert het plan in een nieuwe casus.",
+      "check": "De speler onderscheidt feit, aanname en waarde, vergelijkt twee serieuze opties en formuleert een signaal om bij te sturen."
+    },
+    {
+      "id": "earth-spheres-reference",
+      "term": "Atmosfeer, biosfeer, hydrosfeer en lithosfeer",
+      "priority": "referenceOnly",
+      "episode": 2,
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "whm3ad480yly75ci9dff3a44",
+        "cmhaf6mw0000p357lxgzhko7x"
+      ],
+      "experience": "Vrijwillige atlaslabels bij al ervaren verbanden. Geen stratosfeerpoort, verzamelcheck of ontgrendelvoorwaarde.",
+      "check": "Geen afzonderlijke voortgangspoort."
+    }
+  ],
+  "quality": [
+    "Verschillende geldige plannen worden op expliciete criteria beoordeeld.",
+    "Basisuitleg en hulp zijn vrij toegankelijk; XP is onderzoeksvoortgang.",
+    "Geen globale morele/duurzaamheidsscore.",
+    "Verbeelde toekomst en modelaannames staan bij de ervaring.",
+    "Adminpreview bewaart gewone voortgang apart.",
+    "Originele lesinhoud en primaire correcties zijn traceerbaar.",
+    "Brondekking en functionele tests tonen niet vanzelf leerwinst."
+  ],
+  "futureScenarios": {
+    "alwaysVisible": "Mogelijke toekomst · verbeeld scenario, geen voorspelling",
+    "comparisonVariables": [
+      "dezelfde plek",
+      "dezelfde tijdshorizon",
+      "wereldwijde uitstootroute",
+      "lokale aanpassingsmaatregelen",
+      "resterende onzekerheid"
+    ],
+    "attributionRule": "Als mondiale uitstoot en lokale maatregelen tegelijk verschillen, benoem beide verklaringen. Voor een echte oorzaakvergelijking laat je één factor veranderen en houd je de andere aannames gelijk.",
+    "scaleRule": "Een lokale boom, reparatie of energiehub verandert lokale uitkomsten; hij veroorzaakt niet in zijn eentje een andere wereldtemperatuur.",
+    "timeRule": "Dagelijks weer is variabel. De toekomstscène toont een gekozen situatie binnen een mogelijk klimaat, geen voorspeld weerbericht voor een bepaalde datum.",
+    "uncertaintyRule": "Geen verzonnen wetenschappelijke precisie. Gebruik kwalitatieve uitkomsten of zichtbaar fictieve modelwaarden; echte projectiecijfers vereisen plaats, periode, bron en bereik.",
+    "learningRule": "Laat de speler dezelfde mensen, voorzieningen en routes herkennen, vergelijken en uitleggen. Alleen een donkere en groene afbeelding tonen leert het mechanisme niet."
+  },
+  "scientificReview": {
+    "primarySources": 34,
+    "sourceCorrections": 23
+  }
+}

@@ -1,0 +1,1494 @@
+{
+  "title": "Duurzaamheid, Circulariteit en Systeemdenken: Fundamenten voor de Circulaire Economie",
+  "concepts": [
+    {
+      "id": "climate-change",
+      "term": "Klimaatverandering",
+      "definition": "Het gebruikelijke weer verandert over een lange periode: bijvoorbeeld hoe warm het gemiddeld is, hoeveel regen valt en hoe vaak extreme hitte voorkomt. De huidige wereldwijde opwarming wordt veroorzaakt door menselijke uitstoot van broeikasgassen.",
+      "beginnerExample": "Eén warme middag bewijst niets. Meetgegevens over tientallen jaren kunnen wel laten zien dat een gebied warmer wordt en vaker hete dagen krijgt.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9",
+        "lhfcaj9w89zhs7q5pva13epu"
+      ],
+      "priority": "essential",
+      "prerequisites": [],
+      "gameApplication": "Loop door de kustplaats en leg recente waarnemingen naast een langjarige meetreeks. Het verhaal begint bij een herkenbaar probleem, niet bij een woordenlijst.",
+      "checkUnderstanding": "De speler gebruikt een langjarige trend als bewijs en verklaart waarom één weersdag onvoldoende is.",
+      "verificationSourceIds": [
+        "nasa-climate-definition",
+        "nasa-climate-causes"
+      ],
+      "episodeHint": 1
+    },
+    {
+      "id": "weather-climate",
+      "term": "Weer en klimaat",
+      "definition": "Weer is wat buiten nu of binnenkort gebeurt. Klimaat beschrijft de gebruikelijke patronen van dat weer over vele jaren. Een kouder jaar kan binnen een opwarmend klimaat voorkomen.",
+      "beginnerExample": "Je jas hangt af van het weer van vandaag. De vraag welke gewassen hier over tientallen jaren geschikt zijn, vraagt informatie over het klimaat.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9",
+        "lhfcaj9w89zhs7q5pva13epu"
+      ],
+      "priority": "support",
+      "prerequisites": [],
+      "gameApplication": "Een kort NPC-gesprek maakt duidelijk waarom een koele dag de langjarige grafiek niet weerlegt.",
+      "checkUnderstanding": "De speler kiest het juiste soort informatie voor een dagplanning en een langetermijnbesluit.",
+      "teachingElaboration": "Dit onderscheid wordt toegevoegd om de oorspronkelijke klimaatuitleg begrijpelijk te maken voor beginners.",
+      "verificationSourceIds": [
+        "nasa-climate-definition"
+      ],
+      "episodeHint": 1
+    },
+    {
+      "id": "greenhouse-energy-flow",
+      "term": "Broeikaseffect en energiestromen",
+      "definition": "Zonlicht verwarmt de aarde. De aarde straalt warmte uit. Broeikasgassen nemen een deel van die warmtestraling op en stralen die in verschillende richtingen uit. Meer broeikasgassen verminderen eerst het warmteverlies naar de ruimte, waardoor de aarde opwarmt.",
+      "beginnerExample": "Volg in een eenvoudige proef licht dat binnenkomt en warmte die vertrekt. Na toevoeging van CO₂ verandert de uitgaande warmtestroom; er komt geen nieuwe warmtebron bij.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "qxnn0liruuoy9c3ngcpo8w9x",
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "climate-change"
+      ],
+      "gameApplication": "Een zichtbare energiestroomproef verbindt het alledaagse verhaal met de oorzaak van opwarming. De speler verandert één factor en ziet het mechanisme.",
+      "checkUnderstanding": "De speler onderscheidt zonlicht van warmtestraling en verklaart wat extra CO₂ verandert.",
+      "verificationSourceIds": [
+        "nasa-energy-budget"
+      ],
+      "episodeHint": 1
+    },
+    {
+      "id": "human-emissions",
+      "term": "Broeikasgasuitstoot door menselijk handelen",
+      "definition": "Bij het verbranden van kolen, olie en gas komt extra CO₂ in de lucht. Ook ontbossing, landbouw en sommige productieprocessen veroorzaken broeikasgasuitstoot. Niet alle broeikasgassen zijn CO₂ en luchtvervuiling is niet hetzelfde als klimaatverandering.",
+      "beginnerExample": "Een vrachtwagen op diesel verbrandt olie. Koeien produceren methaan bij hun spijsvertering. Beide dragen via een ander gas bij aan opwarming.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00av357l8wgijfpw",
+        "7c66d0d1-41d6-4c15-b177-15a76c12ae33"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "greenhouse-energy-flow"
+      ],
+      "gameApplication": "Vlieg naar verschillende locaties van dezelfde productketen en volg waar energie nodig is en welke uitstoot daarbij ontstaat.",
+      "checkUnderstanding": "De speler koppelt een activiteit aan een verklaarde uitstootbron en kiest een ingreep die die bron werkelijk vermindert.",
+      "verificationSourceIds": [
+        "nasa-climate-causes",
+        "cbs-emission-sectors"
+      ],
+      "episodeHint": 1
+    },
+    {
+      "id": "emissions-accumulation",
+      "term": "Uitstoot en ophoping",
+      "definition": "Uitstoot is wat er in een periode bijkomt. De hoeveelheid CO₂ in de lucht is de opgebouwde voorraad. Minder toevoegen is nog niet hetzelfde als de voorraad laten dalen. Een deel wordt opgenomen door land en oceanen.",
+      "beginnerExample": "Een kraan minder ver opendraaien vertraagt het vullen van een bad. Het waterniveau daalt pas als er meer uitgaat dan erbij komt. De vergelijking helpt bij ophoping; een echt klimaatsysteem is ingewikkelder.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00as357l0y8yk8kg",
+        "cmhaf84oa00b0357lhr4kavrm"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "human-emissions"
+      ],
+      "gameApplication": "Werk met een expliciet vereenvoudigd voorraadmodel. Vergelijk snel minder uitstoten met lang door blijven uitstoten; voorkom een knop die de planeet direct afkoelt.",
+      "checkUnderstanding": "De speler legt uit waarom een lagere jaarlijkse uitstoot niet automatisch betekent dat de CO₂-concentratie meteen daalt.",
+      "teachingElaboration": "De voorraad-stroomuitleg verduidelijkt de koolstofbudget- en feedbackinhoud uit de bron.",
+      "verificationSourceIds": [
+        "ipcc-carbon-cycles"
+      ],
+      "episodeHint": 3
+    },
+    {
+      "id": "climate-impact-chain",
+      "term": "Klimaatgevolgen en kwetsbaarheid",
+      "definition": "Opwarming verandert de omstandigheden voor water, natuur en mensen. Hoe groot de schade is, hangt ook af van wie en wat eraan blootstaat en welke bescherming beschikbaar is. De gevolgen zijn niet overal hetzelfde.",
+      "beginnerExample": "Dezelfde hitte raakt een oudere bewoner in een slecht geïsoleerde bovenwoning anders dan iemand in een koele woning. Een hoger waterpeil bedreigt vooral laaggelegen en slecht beschermde plekken.",
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cmhaf6mvw000f357l1t9eiia0",
+        "cmhagkk8k009t357lfmj5ub5q"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "climate-change",
+        "human-emissions"
+      ],
+      "gameApplication": "Bezoek in beide mogelijke toekomsten dezelfde bewoners en plekken. Bouw de keten op van klimaatprikkel naar blootstelling, schade en gevolgen voor werk of gezondheid.",
+      "checkUnderstanding": "De speler verklaart waarom eenzelfde klimaatprikkel tot verschillende schade kan leiden.",
+      "verificationSourceIds": [
+        "knmi-adaptation",
+        "ipcc-synthesis"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "mitigation-adaptation",
+      "term": "Mitigatie en adaptatie",
+      "definition": "Mitigatie betekent de oorzaak van verdere opwarming beperken, bijvoorbeeld minder broeikasgassen uitstoten. Adaptatie betekent je aanpassen aan de gevolgen, bijvoorbeeld schaduw en wateropvang aanleggen. Beide zijn nodig; het ene vervangt het andere niet.",
+      "beginnerExample": "Een gebouw isoleren verlaagt het energiegebruik voor verwarming. Een waterplein houdt regen tijdelijk vast zodat straten minder snel overstromen. Deze ingrepen lossen verschillende delen van het probleem op.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "btoscmbi5rct5lo9iz2yp2ep",
+        "t8ayclcq3agdemkk6g952pr9",
+        "n3joe3kiooku2dsfrqih81g7"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "human-emissions",
+        "climate-impact-chain"
+      ],
+      "gameApplication": "Voer een lokale water- of schaduwingreep uit en herstel daarnaast een energievoorziening. Laat de speler zien welk gevolg elk onderdeel verandert.",
+      "checkUnderstanding": "De speler kan een maatregel uitleggen als uitstootreductie, aanpassing of beide, met het bijbehorende mechanisme.",
+      "verificationSourceIds": [
+        "knmi-adaptation"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "carbon-budget",
+      "term": "Koolstofbudget en netto nul",
+      "definition": "Een resterend koolstofbudget is een schatting van hoeveel CO₂ nog kan worden uitgestoten bij een gekozen temperatuurdoel en kans om dat doel te halen. Netto nul CO₂ betekent dat menselijke uitstoot en menselijke verwijdering in balans zijn.",
+      "beginnerExample": "Twee fictieve routes eindigen in hetzelfde jaar bij netto nul. De route die pas laat begint met verminderen heeft onderweg meer CO₂ uitgestoten. Alleen een einddatum vertelt dus niet het hele verhaal.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "qxnn0liruuoy9c3ngcpo8w9x",
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "emissions-accumulation"
+      ],
+      "gameApplication": "Leg twee uitstootroutes over tijd naast elkaar. Spelgetallen worden als vereenvoudigde aanname gemarkeerd; geen actuele wereldbudgetmeter zonder datum en bron.",
+      "checkUnderstanding": "De speler vergelijkt totale uitstoot over een periode en noemt waarom budgetten een onzekerheidsmarge hebben.",
+      "verificationSourceIds": [
+        "ipcc-carbon-budget"
+      ],
+      "episodeHint": 3
+    },
+    {
+      "id": "climate-feedback",
+      "term": "Terugkoppeling in het klimaat",
+      "definition": "Een terugkoppeling ontstaat als een verandering via andere stappen terugwerkt op zichzelf. Versterkend betekent dat de eerste verandering verder wordt aangejaagd. Dempend betekent dat er een tegenreactie ontstaat. De woorden zeggen niets over goed of slecht.",
+      "beginnerExample": "Meer opwarming laat zee-ijs verdwijnen. Het donkere water neemt meer zonlicht op. Dat versterkt de opwarming, waardoor meer ijs kan verdwijnen.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "wuvrig2g71swnpzyfu9857b6",
+        "cmhaf84oa00b0357lhr4kavrm"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "greenhouse-energy-flow"
+      ],
+      "gameApplication": "Vlieg over een poolgebied en verander in een kleine proef het reflecterende oppervlak. Laat de volledige lus zien, inclusief de terugweg naar temperatuur.",
+      "checkUnderstanding": "De speler legt alle stappen van één gesloten terugkoppeling uit en verwart positief niet met wenselijk.",
+      "verificationSourceIds": [
+        "ipcc-energy-feedback",
+        "mit-system-dynamics"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "tipping-points",
+      "term": "Kantelpunten",
+      "definition": "Een kantelpunt is een drempel waarna een systeem sterk kan veranderen en moeilijk terugkeert. De exacte drempel en het tempo van verandering kunnen onzeker zijn. Niet ieder effect vindt ineens plaats zodra een spelmeter rood wordt.",
+      "beginnerExample": "Een ijsmassa kan bij langdurige opwarming verder blijven afnemen. Dat is een reden om risico serieus te nemen; niet om in het spel te doen alsof een heel land morgen onder water staat.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "wuvrig2g71swnpzyfu9857b6",
+        "cmhaf84oa00b0357lhr4kavrm",
+        "cmhkovz7w00pb357j4gmocgix"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "climate-feedback"
+      ],
+      "gameApplication": "Een toekomstwaarneming toont een moeilijk herstelbare verandering en vermeldt tijdshorizon en onzekerheid. De opdracht gaat over risico en tijdig handelen.",
+      "checkUnderstanding": "De speler onderscheidt omkeerbare schade, langdurige reactie en mogelijk kantelpunt zonder een exacte drempel te verzinnen.",
+      "verificationSourceIds": [
+        "ipcc-synthesis",
+        "ipcc-sea-level-faq"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "energy-transition",
+      "term": "Energietransitie",
+      "definition": "De energietransitie verandert hoe we energie gebruiken en opwekken, zodat we minder afhankelijk worden van fossiele brandstoffen. Besparen, andere bronnen, elektriciteitsgebruik en infrastructuur horen bij elkaar. Waterstof draagt energie die eerst ergens anders moet worden opgewekt.",
+      "beginnerExample": "Een fabriek kan minder warmte verspillen en een proces elektrificeren. Daarvoor heeft zij ook stroom, geschikte machines, werknemerskennis en soms een zwaardere aansluiting nodig.",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "rkwaz8fj8i9y353qcylb8q06",
+        "cmhaf84oa00b4357lmy4ripzs",
+        "s51ot2ra3uwlzbcupbtbf8y1"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "human-emissions",
+        "mitigation-adaptation"
+      ],
+      "gameApplication": "Een reparatie- en routeopdracht laat de speler techniek, vraag, net en organisatie samen aanpassen, met verschillende consequenties.",
+      "checkUnderstanding": "De speler verklaart waarom alleen een nieuwe energiebron niet alle delen van de transitie oplost.",
+      "verificationSourceIds": [
+        "doe-hydrogen",
+        "tennet-congestion",
+        "iea-variable-renewables"
+      ],
+      "episodeHint": 3,
+      "energyDistinctions": {
+        "source": "Een bron levert energie, zoals zonlicht, wind of aardgas.",
+        "carrier": "Een drager vervoert of bewaart energie die eerst is omgezet, zoals elektriciteit of waterstof.",
+        "variableGeneration": "Zon en wind leveren niet op elk moment hetzelfde vermogen. Vraag, aanbod, netwerk en flexibiliteit moeten samen passen.",
+        "storage": "Opslag verschuift energie naar een ander moment; zij maakt niet uit zichzelf energie en heeft grenzen en verliezen.",
+        "reliability": "Voldoende jaarproductie garandeert geen beschikbaarheid op ieder moment en op iedere plek."
+      }
+    },
+    {
+      "id": "grid-congestion",
+      "term": "Netcongestie en flexibiliteit",
+      "definition": "Netcongestie ontstaat als op een plek en moment meer elektriciteit vervoerd moet worden dan kabels en stations veilig aankunnen. Dit kan bij afname én teruglevering. Gebruik verschuiven, gerichte opslag en netuitbreiding kunnen helpen, afhankelijk van het knelpunt.",
+      "beginnerExample": "Een bedrijventerrein wil tegelijk veel laden terwijl een lokale kabel vol zit. Sommige voertuigen later laden kan die piek verlagen. Een batterij die juist op dat moment oplaadt maakt het knelpunt groter.",
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmhafau5l00o7357lvrgsiva6",
+        "cmhafau5l00of357lqqldytbm",
+        "cmi36mkq204up357mgusvd24w"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "energy-transition"
+      ],
+      "gameApplication": "Een tijdlijn- of schakelpuzzel verlaagt een concrete lokale piek. Het spel toont transportgrens en laadtijd; geen generieke batterij die altijd wint.",
+      "checkUnderstanding": "De speler onderscheidt voldoende energie over de dag van voldoende lokaal transportvermogen op ieder moment.",
+      "verificationSourceIds": [
+        "tennet-congestion",
+        "tennet-load",
+        "iea-variable-renewables"
+      ],
+      "episodeHint": 3
+    },
+    {
+      "id": "sustainable-development",
+      "term": "Duurzame ontwikkeling",
+      "definition": "Duurzame ontwikkeling betekent voorzien in behoeften van mensen nu, zonder de mogelijkheden van mensen later te ondermijnen. Daarvoor moet je gezondheid en kansen, een werkbare economie en de natuur waarvan we afhankelijk zijn samen bekijken.",
+      "beginnerExample": "Een goedkope productieoplossing kan banen behouden maar drinkwater vervuilen. Alleen naar de prijs kijken mist wat bewoners en toekomstige gebruikers verliezen.",
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cfbkblb19f37udfj0pm52fyh",
+        "afrk140s80orgq000i0mnjka",
+        "cmhaf6mvv000b357lodvmuq8k"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "climate-impact-chain"
+      ],
+      "gameApplication": "De wereldreis verbindt een lokaal besluit met bewoners, een leverancier elders en een toekomstige situatie.",
+      "checkUnderstanding": "De speler benoemt gevolgen nu, elders en later, met een herkenbare onderlinge afhankelijkheid.",
+      "verificationSourceIds": [
+        "un-agenda"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "people-planet-prosperity",
+      "term": "People, Planet, Prosperity en Triple Bottom Line",
+      "definition": "People gaat over mensen en eerlijk kunnen meedoen. Planet gaat over de natuurlijke basis van ons leven. Prosperity gaat over brede welvaart. Bij bedrijven heet de klassieke Triple Bottom Line People, Planet, Profit: ook financiële prestaties tellen mee.",
+      "beginnerExample": "Een waterzuiveringsproject kan gezonder water, werk en inkomsten opleveren. Je onderzoekt ook wie de rekening betaalt en of er ergens nieuwe schade ontstaat.",
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "afrk140s80orgq000i0mnjka",
+        "cmhaf6mvv000b357lodvmuq8k",
+        "cmhkixnyw00m8357lgov0ncy1"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "sustainable-development"
+      ],
+      "gameApplication": "Laat drie NPC's verschillende gevolgen ervaren; vergelijk uitkomsten naast elkaar, zonder één groene geluksscore.",
+      "checkUnderstanding": "De speler onderscheidt bedrijfswinst van brede welvaart en verklaart een spanning tussen de dimensies.",
+      "verificationSourceIds": [
+        "un-agenda",
+        "elkington-tbl"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "sdg-reference",
+      "term": "Sustainable Development Goals",
+      "definition": "De SDG's zijn zeventien internationaal afgesproken ontwikkelingsdoelen. Ze bieden een gedeelde taal voor thema's zoals armoede, gezondheid, energie en natuur. Een SDG-icoon is geen bewijs dat een plan duurzaam is.",
+      "beginnerExample": "Een energieproject kan tegelijk raken aan betaalbare energie, werk en klimaat. Je onderbouwt die koppeling met de werkelijke gevolgen van het project.",
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "ph0hspi6voij8f82yt7tihv7",
+        "dcswn9ddxhsrj9thmj34pqyd"
+      ],
+      "priority": "referenceOnly",
+      "prerequisites": [
+        "sustainable-development"
+      ],
+      "gameApplication": "Een vrijwillige wereldatlas koppelt bezochte situaties aan relevante doelen. Geen quiz waarin de speler alle nummers moet onthouden.",
+      "checkUnderstanding": "Geen afzonderlijke voortgangspoort.",
+      "verificationSourceIds": [
+        "un-agenda"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "planetary-boundaries",
+      "term": "Planetaire grenzen",
+      "definition": "Planetaire grenzen beschrijven veilige marges voor belangrijke processen die de aarde leefbaar houden. Meer druk voorbij die marges vergroot risico's op ernstige verandering. Het zijn onderling verbonden risico-indicatoren, geen negen aftelklokken naar een zekere ramp.",
+      "beginnerExample": "Een maatregel kan CO₂-uitstoot verminderen maar tegelijk veel land en water gebruiken. Daarom controleer je ook effecten op natuur en water, niet alleen op het klimaat.",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cajuckn8h3ynzim4kbm2xrr3",
+        "cmhaf6mw0000u357luawswou7",
+        "dfmojx88hzxx4b8za3ny3krq"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "sustainable-development",
+        "climate-impact-chain"
+      ],
+      "gameApplication": "Verken meerdere regio's op een wereldkaart en ontdek waar een ingreep druk vermindert of verplaatst. De negen processen staan in naslag, niet als namenpoort.",
+      "checkUnderstanding": "De speler ziet dat klimaat slechts één onderdeel is en identificeert een verschuiving van milieudruk.",
+      "verificationSourceIds": [
+        "src-boundaries"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "biodiversity-services",
+      "term": "Biodiversiteit en ecosysteemdiensten",
+      "definition": "Biodiversiteit is de verscheidenheid aan leven, binnen soorten, tussen soorten en tussen ecosystemen. Gezonde ecosystemen leveren bijvoorbeeld bestuiving, schoon water en vruchtbare bodem. Verlies van leven kan ook deze functies en de weerbaarheid van een gebied aantasten.",
+      "beginnerExample": "Een boer kan afhankelijk zijn van bestuivers en een gezonde bodem. Verdwijnt leefgebied rond de akkers, dan raakt dat ook de voedselketen en het inkomen.",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw0000p357lxgzhko7x",
+        "cmhaf6mw10014357lnmy2bsmi"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "planetary-boundaries"
+      ],
+      "gameApplication": "Een route door een landbouwgebied laat samenwerking tussen planten, bodem, water en mensen zien. Herstel opent functioneel een route of voorziening.",
+      "checkUnderstanding": "De speler verbindt een ecosysteemfunctie aan een concreet belang van mensen zonder natuur uitsluitend tot geld te reduceren.",
+      "verificationSourceIds": [
+        "src-boundaries"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "nutrients-water",
+      "term": "Stikstof, fosfor en eutrofiëring",
+      "definition": "Planten hebben voedingsstoffen nodig. Te veel reactieve stikstof of fosfor op de verkeerde plek kan natuur verstoren. Overbelasting met voedingsstoffen heet eutrofiëring; in water kan dit algenbloei en zuurstoftekort veroorzaken. Bij het Nederlandse stikstofprobleem gaat het vooral om verbindingen zoals ammoniak en stikstofoxiden.",
+      "beginnerExample": "Een sloot krijgt te veel meststoffen. Algen groeien sterk; bij afbraak wordt zuurstof verbruikt. Vissterfte heeft dan een oorzaak in de keten, niet alleen in de sloot zelf.",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw10014357lnmy2bsmi",
+        "qcgc2vxj49h69wupnm7d6az4"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "biodiversity-services",
+        "planetary-boundaries"
+      ],
+      "gameApplication": "Volg een waterstroom naar de bron. Een veldingreep, lozing en waterkwaliteit komen samen in een oorzaak-gevolgopdracht.",
+      "checkUnderstanding": "De speler verklaart de keten en onderscheidt noodzakelijke voedingsstoffen van schadelijke overbelasting.",
+      "verificationSourceIds": [
+        "rivm-nitrogen"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "system-boundary",
+      "term": "Systeemgrenzen",
+      "definition": "Een systeemgrens bepaalt wat je meeneemt in je onderzoek: welke plaatsen, mensen, processen en tijdperiode. Een te smalle grens kan een oplossing mooi laten lijken terwijl de schade buiten beeld valt.",
+      "beginnerExample": "Een winkel toont minder afval aan de kassa. Als de leverancier nu extra wegwerpverpakking gebruikt, is de totale keten mogelijk niet verbeterd.",
+      "sourceLessonId": "cmhaeziop0002357lg9o763gb",
+      "sourceItemIds": [
+        "cmhkp5uul00b6357l06m9b1c7",
+        "dcswn9ddxhsrj9thmj34pqyd"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "sustainable-development"
+      ],
+      "gameApplication": "De speler zoomt uit van een gebouw naar een keten en ontdekt een eerder gemist gevolg elders of later.",
+      "checkUnderstanding": "De speler noemt wat buiten de gekozen grens valt en hoe dat de conclusie kan veranderen.",
+      "verificationSourceIds": [
+        "mit-system-dynamics"
+      ],
+      "episodeHint": 2
+    },
+    {
+      "id": "systems-thinking",
+      "term": "Systeemdenken",
+      "definition": "Systeemdenken betekent onderzoeken hoe onderdelen elkaar beïnvloeden en welk gedrag daaruit ontstaat. Je kijkt niet alleen naar een los probleem, maar ook naar oorzaken, prikkels, terugkoppelingen en vertragingen.",
+      "beginnerExample": "Een recyclingmachine werkt goed, maar ontvangt vuil gemengd afval. Meer machines plaatsen helpt weinig als inzameling en ontwerp niet veranderen.",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "rsr9yaxynvnb3t0zu2rfi7f1",
+        "cmhafa70n00nf357lw6z41wcp"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "system-boundary",
+        "climate-feedback"
+      ],
+      "gameApplication": "Laat één ingreep voelbaar doorwerken op meerdere locaties. Daarna benoemt de speler het mechanisme achter die samenhang.",
+      "checkUnderstanding": "De speler verklaart een mislukte lokale maatregel via een relatie met een ander deel van het systeem.",
+      "verificationSourceIds": [
+        "mit-system-dynamics"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "linear-circular",
+      "term": "Lineaire en circulaire economie",
+      "definition": "Een lineaire keten wint grondstoffen, maakt producten en gooit ze na gebruik weg. Een circulaire aanpak probeert materiaalgebruik te voorkomen en producten en materialen langer nuttig te houden. Kringlopen hebben wel verliezen en blijven energie vragen.",
+      "beginnerExample": "Een kapotte lamp hoeft niet volledig afval te worden: een vervangbaar onderdeel kan de lamp bruikbaar houden. Omsmelten bewaart alleen materiaal en verliest veel van het gemaakte product.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "aiqqr1hvfn1jl331ceozryis",
+        "cmhaf7dnm009w357lkix57uak"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "system-boundary",
+        "planetary-boundaries"
+      ],
+      "gameApplication": "Een product reist met de speler langs productie, gebruik, reparatie en afdanken. De route kan veranderen door ontwerp en organisatie.",
+      "checkUnderstanding": "De speler onderscheidt langer productgebruik van materiaalrecycling en legt uit hoe nieuwe grondstoffenvraag kan dalen.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "r-ladder",
+      "term": "R-ladder en waardebehoud",
+      "definition": "De R-ladder ordent manieren om minder grondstoffen te gebruiken en waarde te bewaren. Eerst vraag je of iets nodig is en of het slimmer kan. Daarna komen langer gebruik, hergebruik, reparatie en uiteindelijk materiaalrecycling. De volgorde is een nuttige vuistregel, geen automatisch milieuoordeel.",
+      "beginnerExample": "Heb je een extra boormachine nodig, kun je er één delen, of kun je de bestaande repareren? Alleen de kapotte machine omsmelten vraagt nieuwe productiestappen.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "rh9guukvm5osqo1tca5sm9w1",
+        "cmhaf7dnm009z357lsk2jfirs",
+        "cmhaf7dnn00ap357lrqd587xn"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "linear-circular"
+      ],
+      "gameApplication": "Een werkplaats biedt echte alternatieven voor hetzelfde probleem. De keuze beïnvloedt gereedschap, materiaalroute en beschikbare middelen.",
+      "checkUnderstanding": "De speler kiest een passende strategie en benoemt wat behouden blijft en welke extra bewerking nodig is.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies",
+        "pbl-r-ladder"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "design-for-long-life",
+      "term": "Ontwerpen voor reparatie en hergebruik",
+      "definition": "Wat later mogelijk is, wordt deels bij het ontwerp bepaald. Bereikbare onderdelen, vervangbare modules, goede informatie en terugname maken langer gebruik makkelijker. Een gelijmd mengsel kan juist lastig te repareren of te scheiden zijn.",
+      "beginnerExample": "Twee apparaten hebben dezelfde functie. Bij het ene vervang je een defecte accu. Bij het andere moet het hele apparaat worden afgedankt omdat de accu niet bereikbaar is.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "andkuzojfiyqqc3uc0skrcd3",
+        "cmhaf7dnm00a5357l5qt9x0nu",
+        "cmhkp9yo80119357lstl07l68"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "r-ladder"
+      ],
+      "gameApplication": "Een tastbare montagepuzzel laat de speler onderdelen combineren en het product vervolgens onderhouden of terugnemen.",
+      "checkUnderstanding": "De speler kan uitleggen waarom een ontwerpkeuze een latere R-strategie mogelijk maakt of verhindert.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "service-ownership",
+      "term": "Product als dienst en eigenaarschapprikkels",
+      "definition": "Bij een product als dienst betaalt de klant voor gebruik of een prestatie. Als de aanbieder eigenaar blijft en onderhoud en terugname draagt, kan langer productgebruik financieel aantrekkelijker worden. Het contract bepaalt die prikkel; een lease-etiket bewijst geen duurzaamheid.",
+      "beginnerExample": "Een bedrijf verkoopt lichturen en betaalt zelf voor reparatie van de lampen. Betrouwbare, repareerbare lampen besparen dan kosten. Een contract dat snelle vervanging beloont kan de andere kant op werken.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "b7ug2pyxin5w7wks4woixayg",
+        "cmhaf7dnm00a5357l5qt9x0nu"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "design-for-long-life"
+      ],
+      "gameApplication": "Onderhandel een onderhouds- en terugnameafspraak. Wie kosten en restwaarde draagt, verandert zichtbaar het gedrag van de aanbieder.",
+      "checkUnderstanding": "De speler wijst de contractregel aan die een prikkel voor levensduur geeft en noemt een voorwaarde of risico.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "sharing-and-rebound",
+      "term": "Delen en onbedoeld extra gebruik",
+      "definition": "Delen kan dezelfde behoefte met minder producten vervullen. De milieuwinst hangt af van werkelijk vermeden productie en extra gebruik, vervoer en onderhoud. Als gemak of lagere kosten meer gebruik uitlokken, kan een deel van de besparing verdwijnen.",
+      "beginnerExample": "Een buurt deelt gereedschap dat anders weinig wordt gebruikt. Een deelauto die vooral fietsritten vervangt, vermindert daarentegen niet vanzelf de uitstoot.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhaf7dnm00a5357l5qt9x0nu"
+      ],
+      "priority": "support",
+      "prerequisites": [
+        "linear-circular",
+        "system-boundary"
+      ],
+      "gameApplication": "Volg de gebruiksroute van een gedeeld product en controleer welk gebruik het vervangt. Een vervolgkeuze toont een mogelijk onbedoeld effect.",
+      "checkUnderstanding": "De speler onderbouwt of delen in deze situatie productie of gebruik vermindert.",
+      "teachingElaboration": "Het terugslageffect is een verduidelijking bij de optimistische deelplatformuitleg; de synthese bespreekt al onbedoelde mobiliteitseffecten.",
+      "verificationSourceIds": [
+        "pbl-r-ladder"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "life-cycle-assessment",
+      "term": "Levenscyclusanalyse (LCA)",
+      "definition": "Een LCA onderzoekt milieueffecten over de levensloop van een product of dienst, van grondstofwinning tot einde gebruik. Voor een eerlijke vergelijking moet je dezelfde functie en duidelijke grenzen gebruiken. Een gewone milieu-LCA meet niet automatisch sociale rechtvaardigheid of winst.",
+      "beginnerExample": "Vergelijk twee manieren om honderd keer drinken te serveren. Bij een herbruikbare beker tellen ook afwassen en het aantal keren gebruik mee; bij wegwerp ook telkens nieuwe productie en afvalverwerking.",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhah48vh00ds357lykr4b465",
+        "cmhkm591p00c9357lhrula2eb"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "system-boundary",
+        "linear-circular"
+      ],
+      "gameApplication": "Een keteninspectie verdeelt de informatie over locaties. Een vergelijkingswerkbank gebruikt dezelfde geleverde functie, niet alleen gewicht of aanschafprijs.",
+      "checkUnderstanding": "De speler herkent een gemiste levensfase of oneerlijke vergelijking en kan de conclusie aanpassen.",
+      "verificationSourceIds": [
+        "iso-lca",
+        "rivm-lca"
+      ],
+      "episodeHint": 4
+    },
+    {
+      "id": "six-capitals",
+      "term": "De zes kapitalen",
+      "definition": "Kapitalen zijn middelen en relaties waar een organisatie van afhankelijk is of invloed op heeft. Het raamwerk onderscheidt financieel, geproduceerd, intellectueel, menselijk, sociaal en relationeel, en natuurlijk kapitaal. Het zijn zes perspectieven, geen zes geldpotten.",
+      "beginnerExample": "Een reparatiebedrijf gebruikt geld, een werkplaats, een reparatiemethode, kundige medewerkers, vertrouwen van klanten en materiaal. Groei kan sommige middelen versterken terwijl andere achteruitgaan.",
+      "capitalDefinitions": {
+        "financial": "Geld en beschikbare financiering.",
+        "manufactured": "Gebouwen, machines en infrastructuur.",
+        "intellectual": "Vastgelegde kennis, werkwijzen, ontwerpen en rechten.",
+        "human": "Kennis, vaardigheden, gezondheid en motivatie van mensen.",
+        "socialRelationship": "Vertrouwen, samenwerking en relaties met anderen.",
+        "natural": "Natuurlijke hulpbronnen, ecosystemen en hun functies."
+      },
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "yh4yseo00vbrgd6peaw013z2",
+        "cmhaf8sti00ld357lifnrv9o1",
+        "cmhko9j8j00mk357lvitwnwlk"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "people-planet-prosperity"
+      ],
+      "gameApplication": "Een bedrijfsbezoek maakt alle zes zichtbaar als mensen, voorwerpen, kennis, relaties en natuur. De speler maakt afhankelijkheden begrijpelijk.",
+      "checkUnderstanding": "De speler onderscheidt bijvoorbeeld een machine, medewerkersvaardigheid en vastgelegde ontwerpkennis en verklaart hun samenhang.",
+      "verificationSourceIds": [
+        "ifrs-capitals"
+      ],
+      "episodeHint": 5
+    },
+    {
+      "id": "multiple-value-creation",
+      "term": "Meervoudige waardecreatie",
+      "definition": "Een activiteit kan meerdere soorten waarde creëren, behouden of aantasten. Meer geld verdienen vertelt niet of kennis, gezondheid, vertrouwen of natuur ook verbeteren. Onderzoek daarom winst én verlies voor verschillende groepen en op verschillende momenten.",
+      "beginnerExample": "Een nieuwe machine kan kosten verlagen maar omscholing vragen. Zonder opleiding verliezen medewerkers kansen. Met passende opleiding kan hetzelfde project ook kennis en inzetbaarheid versterken.",
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "cmhko9j8j00mk357lvitwnwlk",
+        "ikuguioj0ea9qvry5bzypr66",
+        "d67g8hd2q9n0ut5kpdoqetdc"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "six-capitals"
+      ],
+      "gameApplication": "Een besluit verandert meerdere afzonderlijke uitkomsten. De speler ziet ook verlies en afruilen; die worden niet weggestreept tot één totaalscore.",
+      "checkUnderstanding": "De speler verklaart een verandering in minstens twee kapitalen en noemt wie daarvan profiteert of nadeel heeft.",
+      "verificationSourceIds": [
+        "ifrs-value"
+      ],
+      "episodeHint": 5,
+      "processDistinctions": {
+        "input": "Wat het proces gebruikt: bijvoorbeeld materiaal, geld en kennis.",
+        "output": "Wat het proces oplevert: producten, diensten, bijproducten en afval.",
+        "outcome": "Wat die activiteiten en resultaten veranderen voor kapitalen en betrokkenen: bijvoorbeeld minder grondstofgebruik, betere vaardigheden of gezondheidsschade."
+      },
+      "workedExample": "Een reparatieatelier gebruikt onderdelen en vakkennis (input), levert herstelde fietsen en restmateriaal (output), en kan langer fietsgebruik, werkervaring en minder nieuwe materiaalvraag opleveren (outcomes). De laatste effecten moet je onderzoeken; ze volgen niet vanzelf uit een productieteller."
+    },
+    {
+      "id": "double-materiality",
+      "term": "Dubbele materialiteit",
+      "definition": "Materieel betekent belangrijk genoeg om mee te nemen. Je onderzoekt twee richtingen: wat de organisatie doet met mensen en natuur, en wat duurzaamheidsontwikkelingen doen met de financiële positie van de organisatie. Een onderwerp kan in één richting belangrijk zijn, of in beide.",
+      "beginnerExample": "Een fabriek loost vervuild water: haar impact op de omgeving. Droogte kan tegelijk haar productie stilleggen: een risico voor de fabriek. Ernstige omgevingsschade hoeft niet eerst financieel verlies te geven om belangrijk te zijn.",
+      "perspectives": {
+        "impactMateriality": "Inside-out: werkelijke of mogelijke invloed op mensen en milieu, ook in de waardeketen.",
+        "financialMateriality": "Outside-in: duurzaamheidsrisico's en kansen met mogelijke financiële gevolgen voor de organisatie."
+      },
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "hvm6qn2a9h3tovh5xtzcen3d",
+        "cmhaf8sti00lk357lubk30tde"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "multiple-value-creation",
+        "system-boundary"
+      ],
+      "gameApplication": "Onderzoek eerst buiten de organisatie en daarna binnen. Een bord met twee richtingen toont beide onderzoeken; lage financiële schade wist ernstige impact niet uit.",
+      "checkUnderstanding": "De speler onderscheidt impact en financieel risico en accepteert dat één van beide voldoende relevant kan zijn.",
+      "verificationSourceIds": [
+        "efrag-materiality"
+      ],
+      "episodeHint": 5
+    },
+    {
+      "id": "stakeholder-perspectives",
+      "term": "Belanghebbenden en belangen",
+      "definition": "Belanghebbenden zijn mensen en organisaties die invloed hebben op een besluit of de gevolgen ervan ervaren. Ze kunnen verschillende zorgen, kennis en mogelijkheden hebben. Weinig macht betekent niet dat hun gezondheid of rechten weinig meetellen.",
+      "beginnerExample": "Werknemers vragen baanzekerheid, bewoners schonere lucht en een leverancier haalbare eisen. Hun verhalen leveren andere informatie dan alleen de financiële cijfers van het bedrijf.",
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmi38l2yd0bi7357m4sr9fdtd",
+        "cmhafau5l00oi357lftuab2jy"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "people-planet-prosperity"
+      ],
+      "gameApplication": "Meerdere NPC's hebben eigen kennis en volgen op je besluit met een concreet gevolg. De speler kan doorvragen en ontbrekende stemmen zoeken.",
+      "checkUnderstanding": "De speler brengt een minder invloedrijke maar getroffen groep in beeld en verklaart welke informatie die groep toevoegt.",
+      "verificationSourceIds": [
+        "efrag-materiality"
+      ],
+      "episodeHint": 5
+    },
+    {
+      "id": "indicators",
+      "term": "Indicatoren en KPI's",
+      "definition": "Een indicator is een meetbaar signaal dat helpt volgen of iets verandert. Een KPI volgt een gekozen belangrijk doel. Kies een eenheid, beginwaarde en periode en controleer of de meting werkelijk laat zien wat je wilt weten.",
+      "beginnerExample": "Veel opleidingsuren vertellen niet automatisch of mensen veiliger werken. Minder uitstoot per product kan samengaan met meer totale uitstoot als veel meer producten worden gemaakt.",
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "qz13lz9uouhjbttqi71a62fo",
+        "cmhaf8sti00ln357ljmg2dwcu"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "multiple-value-creation"
+      ],
+      "gameApplication": "De speler stelt een meetplan op en keert later terug naar echte spelwaarnemingen. Meetprestatie is geen morele score.",
+      "checkUnderstanding": "De speler onderscheidt een activiteitenteller van een uitkomst en totale impact van impact per eenheid.",
+      "verificationSourceIds": [
+        "ifrs-value"
+      ],
+      "episodeHint": 5
+    },
+    {
+      "id": "biomimicry",
+      "term": "Biomimicry",
+      "definition": "Biomimicry betekent een werkingsprincipe uit de natuur onderzoeken en vertalen naar een menselijk ontwerp. Het gaat om hoe iets werkt, niet alleen om een natuurlijke vorm. Een ontwerp moet daarna op functie en gevolgen worden getest.",
+      "beginnerExample": "Een lotusblad heeft een oppervlak waar water en vuil makkelijk vanaf rollen. Een ontwerper kan dat principe onderzoeken voor een oppervlak; een bloem tekenen op een gebouw is nog geen biomimicry.",
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "snrms5xekqtctxfrn71yoepi",
+        "cmhaf9noe00m3357lazmkvmad",
+        "1226f9d8-4298-462d-b614-4f6e631e8d9a"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "biodiversity-services",
+        "design-for-long-life"
+      ],
+      "gameApplication": "De speler observeert buiten een functie, bouwt een eenvoudig prototype en test het in een andere situatie.",
+      "checkUnderstanding": "De speler noemt het nagebootste mechanisme en onderscheidt dat van alleen uiterlijk of biobased materiaal.",
+      "verificationSourceIds": [
+        "biomimicry-process"
+      ],
+      "episodeHint": 6
+    },
+    {
+      "id": "lifes-principles",
+      "term": "Life's Principles",
+      "definition": "Life's Principles zijn ontwerprichtlijnen uit biomimicry. Denk aan zuinig omgaan met materiaal en energie, aanpassen aan verandering, lokaal aansluiten en veilige chemie kiezen. Gebruik ze als vragen om een ontwerp te verbeteren; niet als bewijs dat alles uit de natuur veilig is.",
+      "beginnerExample": "Een demontabele schaduwconstructie past bij veranderende behoeften. Lokale plantensoorten passen bij het gebied. De coating moet apart op schadelijkheid en terugwinning worden gecontroleerd.",
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "psj5xxc3g7ccqt5zwfcy179y",
+        "cmhaf9noe00m7357l70w2d81z",
+        "cmhaf9nof00mx357ly4p3rtyv"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "biomimicry"
+      ],
+      "gameApplication": "Een ontwerpopdracht laat materiaal, lokale omstandigheden en aanpasbaarheid samen kiezen, met informatie over hun werking.",
+      "checkUnderstanding": "De speler koppelt een ontwerpkeuze aan een uitgelegd principe en controleert een mogelijk nadeel.",
+      "verificationSourceIds": [
+        "biomimicry-chemistry",
+        "efsa-natural-toxins"
+      ],
+      "episodeHint": 6,
+      "principleExamples": {
+        "resourceEfficiency": "Dezelfde bruikbare functie leveren met minder materiaal en energie.",
+        "adaptToChange": "Onderdelen of gebruik kunnen aanpassen als omstandigheden veranderen.",
+        "integrateDevelopmentGrowth": "Een ontwerp zo opbouwen dat functies kunnen ontwikkelen en samengaan in plaats van alleen groter te worden.",
+        "lifeFriendlyChemistry": "Stoffen en processen beoordelen op veiligheid voor mens en ecosystemen over de levensloop.",
+        "locallyAttunedResponsive": "Ontwerp aansluiten op lokale omstandigheden en reageren op veranderingen."
+      }
+    },
+    {
+      "id": "regenerative-design",
+      "term": "Regeneratief ontwerp",
+      "definition": "Regeneratief ontwerp wil bijdragen aan herstel en versterking van een leefomgeving, zoals bodem, water, soorten en gemeenschappen. Minder schade is een stap; herstel vraagt aanvullend bewijs. Meer stroom opwekken dan gebruiken bewijst niet op zichzelf dat een gebied herstelt.",
+      "beginnerExample": "Een akkermaatregel vermindert afspoeling. Of zij ook de bodem en biodiversiteit herstelt, moet je volgen met passende waarnemingen over tijd.",
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "gkzy5pfrs3q880i6t91ro5l0",
+        "cmhaf9noe00md357leevtdy7v",
+        "hjecduosugo1r2davhe9174g"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "lifes-principles",
+        "indicators"
+      ],
+      "gameApplication": "Een herstelopdracht verandert een plek zichtbaar en koppelt die verandering aan een meetplan. Geen gratis regeneratief-label voor een groen uiterlijk.",
+      "checkUnderstanding": "De speler onderscheidt minder schade van aangetoond herstel en noemt wat nog gemeten moet worden.",
+      "verificationSourceIds": [
+        "biomimicry-process"
+      ],
+      "episodeHint": 6
+    },
+    {
+      "id": "wicked-problems",
+      "term": "Wicked problems",
+      "definition": "Bij een wicked problem zijn het probleem en de gewenste oplossing omstreden, werken veel oorzaken samen en verandert de situatie als je ingrijpt. Er is geen eenvoudige eindoplossing waar iedereen het over eens is. Dat maakt feiten niet vrijblijvend.",
+      "beginnerExample": "Plastic afval raakt ontwerp, prijs, gewoonten, inzameling en regels. Minder plastic kan een ander materiaal met nieuwe nadelen betekenen. Verschillende betrokkenen wegen die gevolgen anders.",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "y7p134ihxuygxb6nrhxrso4d",
+        "cmhafa70n00n9357lmwas7b7a"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "systems-thinking",
+        "stakeholder-perspectives"
+      ],
+      "gameApplication": "Een nieuw verzoek of tegeneffect na een ingreep verandert de missie. De speler herziet het plan in plaats van alleen het juiste antwoord te zoeken.",
+      "checkUnderstanding": "De speler legt uit waarom een maatregel in deze context betwist of onvoldoende is en onderscheidt waarden van feitelijke claims.",
+      "verificationSourceIds": [
+        "rittel-webber"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "causal-loop-diagram",
+      "term": "Causaal lussendiagram (CLD)",
+      "definition": "Een CLD tekent hoe veranderingen in variabelen elkaar beïnvloeden. Een plus betekent dezelfde richting; een min de tegengestelde richting, als andere omstandigheden gelijk blijven. Volg een gesloten lus om te zien of zij een verandering versterkt of tegenwerkt.",
+      "beginnerExample": "Meer vraag naar gerecycled materiaal kan investeringen stimuleren. Betere kwaliteit kan dan meer vraag opleveren: een mogelijke versterkende lus. Tekorten of vertraging kunnen die groei tegelijk afremmen.",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "kvsxrfbfmj9roghnh39k6ij7",
+        "cmhafa70n00nj357lxm2v88ld",
+        "cmi33vwc701rj357mm3lobb93",
+        "cmi34n6o002mt357mbuj4gog8"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "climate-feedback",
+        "systems-thinking"
+      ],
+      "gameApplication": "De speler volgt eerst een zichtbaar mechanisme en tekent daarna slechts enkele pijlen. Een bestaande uitgelegde lus wordt aangepast aan een nieuwe situatie.",
+      "checkUnderstanding": "De speler sluit een echte lus, licht iedere pijl toe en maakt geen voorspelling van lusdominantie alleen uit plus- en mintekens.",
+      "verificationSourceIds": [
+        "mit-system-dynamics"
+      ],
+      "episodeHint": 7,
+      "delayExample": "Na een investering duurt het tijd voordat nieuwe inzameling of productie werkt. Blijf je in die wachttijd steeds harder ingrijpen, dan kan je later te veel capaciteit of een ander knelpunt krijgen."
+    },
+    {
+      "id": "lock-in-path-dependence",
+      "term": "Lock-in en padafhankelijkheid",
+      "definition": "Padafhankelijkheid betekent dat eerdere keuzes bepalen welke opties nu makkelijk of moeilijk zijn. Bij lock-in houden investeringen, routines, regels of belangen een patroon stevig vast. Het gaat om verklaarbare beperkingen, niet alleen om mensen die niet willen veranderen.",
+      "beginnerExample": "Een fabriek heeft machines en langlopende contracten voor nieuw plastic. Overstappen vraagt niet alleen een ander materiaal, maar ook aanpassing van apparatuur, leveranciers en afspraken.",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "c09jwmk6223ged5tifs8pi6y",
+        "cmhafa70o00no357lz4iknov5",
+        "cmhafa70o00nr357l8ptdguna"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "systems-thinking",
+        "service-ownership"
+      ],
+      "gameApplication": "Een route blijft geblokkeerd door een contract of ontwerpbeperking. De speler moet de oorzaak veranderen, niet een willekeurige sleutel vinden.",
+      "checkUnderstanding": "De speler identificeert een concrete beperkende structuur en een ingreep die die structuur kan wijzigen.",
+      "verificationSourceIds": [
+        "meadows-leverage"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "leverage-points",
+      "term": "Hefboompunten",
+      "definition": "Een hefboompunt is een plek waar een gerichte verandering veel kan doorwerken. Denk aan afspraken, toegang tot informatie, beloningen of systeemdoelen. Je moet het mechanisme onderzoeken; een kleine ingreep werkt niet automatisch groot of gunstig.",
+      "beginnerExample": "Een reparateur krijgt eindelijk onderdelen en instructies. Daardoor worden veel producten herstelbaar. Alleen een poster met 'repareer meer' verandert die belemmering niet.",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "cmhafa70n00nf357lw6z41wcp",
+        "35548634-0281-4f6e-975a-da42fa6b17c6"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "causal-loop-diagram",
+        "lock-in-path-dependence"
+      ],
+      "gameApplication": "Een informatie-, ontwerp- of contractkeuze verandert meerdere locaties. Het spel toont welk pad die verandering volgt en welke reactie tegenwerkt.",
+      "checkUnderstanding": "De speler verklaart waarom de gekozen ingreep meer kan doen dan een symptoommaatregel en benoemt een beperking.",
+      "verificationSourceIds": [
+        "meadows-leverage"
+      ],
+      "episodeHint": 7
+    },
+    {
+      "id": "decisions-under-uncertainty",
+      "term": "Afwegen, scenario's en bijsturen",
+      "definition": "Een onderbouwd besluit vergelijkt alternatieven, gevolgen, belangen en onzekerheden. Een scenario verkent wat kan gebeuren onder bepaalde aannames. Kies ook welke signalen je later volgt en wanneer je bijstuurt. Onzekerheid is geen reden om gevolgen te negeren.",
+      "beginnerExample": "Een plan werkt bij ruime én krappe materiaaltoevoer, maar is duurder. Een ander is goedkoper zolang toevoer goed blijft. Je maakt de afruil zichtbaar en spreekt een moment af om opnieuw te kijken.",
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "hkzoitdzg2u4nwrxmeak9awn",
+        "cmhafau5l00oa357lnz6d4y0o",
+        "cmhafau5l00oi357lftuab2jy",
+        "cmi38l2yd0bi7357m4sr9fdtd"
+      ],
+      "priority": "essential",
+      "prerequisites": [
+        "double-materiality",
+        "stakeholder-perspectives",
+        "wicked-problems",
+        "indicators"
+      ],
+      "gameApplication": "De wereldreis eindigt bij een besluit dat de speler met bewijs en aannames toelicht. Daarna bezoekt die beide mogelijke toekomsten opnieuw en controleert het plan in een nieuwe casus.",
+      "checkUnderstanding": "De speler onderscheidt feit, aanname en waarde, vergelijkt twee serieuze opties en formuleert een signaal om bij te sturen.",
+      "verificationSourceIds": [
+        "knmi-scenarios",
+        "rittel-webber"
+      ],
+      "episodeHint": 8,
+      "additionalSourceEvidence": [
+        {
+          "sourceLessonId": "cmhaeziop000a357l0vny8nem",
+          "sourceItemIds": [
+            "cmhafbpd800q1357lnsytuoml",
+            "cmhafbpd900qm357lcwxv8iez",
+            "wimvys4vkn5lrhjec08q3dac"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "earth-spheres-reference",
+      "term": "Atmosfeer, biosfeer, hydrosfeer en lithosfeer",
+      "definition": "Deze namen beschrijven lucht, leven, water en de vaste buitenkant van de aarde. Ze kunnen helpen om verbanden te ordenen, maar de belangrijkste vraag is wat er tussen deze onderdelen gebeurt. Namen van atmosferische lagen zijn geen benodigde spelkennis.",
+      "beginnerExample": "Regen bereikt de bodem, planten gebruiken water en een deel verdampt weer. De speler kan die samenhang begrijpen zonder eerst alle sferen te benoemen.",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "whm3ad480yly75ci9dff3a44",
+        "cmhaf6mw0000p357lxgzhko7x"
+      ],
+      "priority": "referenceOnly",
+      "prerequisites": [],
+      "gameApplication": "Vrijwillige atlaslabels bij al ervaren verbanden. Geen stratosfeerpoort, verzamelcheck of ontgrendelvoorwaarde.",
+      "checkUnderstanding": "Geen afzonderlijke voortgangspoort.",
+      "verificationSourceIds": [],
+      "episodeHint": 2
+    }
+  ],
+  "corrections": [
+    {
+      "id": "hydrogen-is-carrier",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9"
+      ],
+      "sourceClaim": "Zon, wind en waterstof worden samen duurzame energiebronnen genoemd.",
+      "correction": "Waterstof is een energiedrager. Productie vraagt energie of grondstoffen; de klimaatimpact hangt af van die productieroute. Niet presenteren als automatisch hernieuwbare bron.",
+      "verificationSourceIds": [
+        "doe-hydrogen"
+      ]
+    },
+    {
+      "id": "greenhouse-not-mirror",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "sourceClaim": "Gassen houden warmte vast; de uitleg laat het stralingsmechanisme grotendeels impliciet.",
+      "correction": "Toegankelijke samenvatting behouden, maar in de proef laten zien dat broeikasgassen warmtestraling absorberen en uitstralen. Geen ondoorzichtig deksel dat alle warmte blokkeert, geen CO₂ die zelf warmte produceert.",
+      "verificationSourceIds": [
+        "nasa-energy-budget"
+      ]
+    },
+    {
+      "id": "extremes-are-specific",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "t8ayclcq3agdemkk6g952pr9",
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "sourceClaim": "Toenemende frequentie van extreme weersomstandigheden en hevigere stormen worden algemeen gesteld.",
+      "correction": "Gebruik specifieke onderbouwde effecten zoals meer hitte en intensere zware neerslag in relevante regio's. Frequentie en intensiteit verschillen per soort extreem en regio. Klimaat verklaart kansen en trends, niet automatisch iedere individuele ramp.",
+      "verificationSourceIds": [
+        "ipcc-synthesis",
+        "knmi-scenarios"
+      ]
+    },
+    {
+      "id": "carbon-budget-conditional",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00as357l0y8yk8kg"
+      ],
+      "sourceClaim": "Koolstofbudget is de maximale hoeveelheid die nog kan worden uitgestoten om een doel te halen.",
+      "correction": "Een resterend budget is conditioneel op kans, temperatuurdoel, begindatum, andere gassen en onzekerheid. Geen gegarandeerde grens of actuele teller gebaseerd op een ongedateerd oud getal.",
+      "verificationSourceIds": [
+        "ipcc-carbon-budget"
+      ]
+    },
+    {
+      "id": "sinks-and-clouds",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00b0357lhr4kavrm"
+      ],
+      "sourceClaim": "CO₂-opname en extra bewolking staan als algemene negatieve feedbackvoorbeelden.",
+      "correction": "Meer CO₂ kan opname stimuleren, terwijl opwarming opname juist kan verzwakken. Wolken reageren verschillend naar type en omstandigheden. Gebruik voor beginners ijsreflectie als duidelijke versterkende lus en een thermostaat als duidelijke dempende lus; verdiep carbon sinks en wolken pas met de volledige keten.",
+      "verificationSourceIds": [
+        "ipcc-carbon-cycles",
+        "ipcc-energy-feedback"
+      ]
+    },
+    {
+      "id": "future-and-sea-level",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cmhaf84oa00b0357lhr4kavrm",
+        "cmhkovz7w00pb357j4gmocgix"
+      ],
+      "sourceClaim": "Kantelpuntvoorbeelden kunnen zonder tijdschaal als direct catastrofaal worden gelezen.",
+      "correction": "Zeespiegel reageert traag; netto nul doet zee en ijskappen niet onmiddellijk herstellen. Laat beide toekomstige kustbeelden dezelfde plaats en tijdshorizon gebruiken, met lokale bescherming naast mondiale klimaataannames. Geen volledig verdwenen Groenlandse ijskap in een nabije toekomst als zeker feit.",
+      "verificationSourceIds": [
+        "ipcc-sea-level-faq",
+        "knmi-scenarios"
+      ]
+    },
+    {
+      "id": "sectors-year-definition",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "cc8fe775-7d3e-4534-ada8-230cd76b15ad",
+        "iug2nfgzokcg7oiflysv9yfk"
+      ],
+      "sourceClaim": "De energiesector is de grootste bron van Nederlandse broeikasgasemissies.",
+      "correction": "Zonder jaar en afbakening is dit niet toetsbaar. CBS onderscheidt klimaatsectoren en noemt industrie als grootste in de getoonde 2025-cijfers; energiegebruik kan ook over andere sectoren worden verdeeld. Leer het bronmechanisme en de afbakening, geen tijdloze rangorde.",
+      "verificationSourceIds": [
+        "cbs-emission-sectors"
+      ]
+    },
+    {
+      "id": "congestion-not-only-balance",
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmhafau5l00o7357lvrgsiva6",
+        "cmi36mkq204up357mgusvd24w"
+      ],
+      "sourceClaim": "De kern van netcongestie is een mismatch tussen momenten van productie en vraag.",
+      "correction": "Netcongestie betreft begrensd transport op een locatie en moment. Een systeembrede onbalans is een ander probleem. Laat het specifieke kabel- of stationsknelpunt en de richting van de stroom zien.",
+      "verificationSourceIds": [
+        "tennet-congestion",
+        "tennet-load"
+      ]
+    },
+    {
+      "id": "battery-not-universal-answer",
+      "sourceLessonId": "cmhaeziop0005357lbmv0wq3w",
+      "sourceItemIds": [
+        "736717d0-9ceb-45d9-91ad-83e2bb6884dc"
+      ],
+      "sourceClaim": "Lokale batterijopslag is zonder verdere voorwaarden de beste oplossing.",
+      "correction": "Opslag helpt als capaciteit, plaats en sturing aansluiten op het knelpunt. Laden kan ook extra transport vragen. Vergelijk concrete pieken en beperkingen; vraagsturing en netuitbreiding blijven serieuze alternatieven.",
+      "verificationSourceIds": [
+        "tennet-load",
+        "tennet-flexibility"
+      ]
+    },
+    {
+      "id": "boundaries-not-tipping-switches",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw0000u357luawswou7",
+        "cmhkkg1ff0164357lltlz9mbb"
+      ],
+      "sourceClaim": "Planetaire grenzen worden beschreven als kritische drempels met blijvende schade bij overschrijding.",
+      "correction": "Veilige marges en kantelpunten onderscheiden. Overschrijding vergroot risico; gevolg is niet noodzakelijk direct, uniform of onomkeerbaar. Een mondiale grens is ook geen rechtstreeks lokaal vergunninggetal.",
+      "verificationSourceIds": [
+        "src-boundaries"
+      ]
+    },
+    {
+      "id": "boundaries-current-terminology",
+      "sourceLessonId": "cmhaeziop0003357l90dbzher",
+      "sourceItemIds": [
+        "cmhaf6mw0000u357luawswou7",
+        "cmhkkrude01ei357lj9zizyvs"
+      ],
+      "sourceClaim": "Chemische verontreiniging, luchtvervuiling en zoetwatergebruik zijn de gebruikte grensnamen; een video noemt zes overschreden grenzen.",
+      "correction": "Gebruik in naslag actuele procesnamen zoals nieuwe entiteiten, atmosferische aerosolen en zoetwaterverandering. Het aantal overschreden grenzen hoort bij een gedateerde beoordeling; de 2025-beoordeling noemt zeven. Gebruik geen verouderde videokop als actuele toetskennis.",
+      "verificationSourceIds": [
+        "src-boundaries",
+        "src-boundaries-2025"
+      ]
+    },
+    {
+      "id": "refuse-not-substitution",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhaf7dnm009z357lsk2jfirs"
+      ],
+      "sourceClaim": "Plastic vervangen door composteerbaar materiaal is het voorbeeld van Refuse.",
+      "correction": "Refuse gaat om een onnodig product of functie vermijden. Materiaalvervanging is geen bewijs dat gebruik verdwijnt. Voorbeeld: een overbodige verpakking weglaten; effect van vervangend materiaal afzonderlijk onderzoeken.",
+      "verificationSourceIds": [
+        "pbl-r-ladder"
+      ]
+    },
+    {
+      "id": "circular-not-infinite",
+      "sourceLessonId": "cmhaeziop0004357ldste80up",
+      "sourceItemIds": [
+        "cmhaf7dnm009w357lkix57uak",
+        "rh9guukvm5osqo1tca5sm9w1"
+      ],
+      "sourceClaim": "In circulariteit zijn grondstoffen niet langer eindig; hoger op de ladder betekent meer waarde.",
+      "correction": "Hergebruik maakt materialen niet oneindig: verliezen, kwaliteit en energie blijven relevant. De R-ladder is een voorkeur/vuistregel. Beoordeel de concrete functie en levensloop voordat je beweert welke optie de minste milieudruk heeft.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies",
+        "pbl-r-ladder",
+        "iso-lca"
+      ]
+    },
+    {
+      "id": "lease-not-guarantee",
+      "sourceLessonId": "cmhaeziop000a357l0vny8nem",
+      "sourceItemIds": [
+        "c9a785bf-b0f4-44c2-9e49-ca691664c938"
+      ],
+      "sourceClaim": "Een lease-model is systemisch gunstiger en laat de producent verantwoordelijk blijven.",
+      "correction": "Deze prikkel bestaat wanneer eigenaarschap, kosten, onderhoud, prestaties en terugname passend zijn geregeld. Een financiële lease of snelle vervangingscyclus kan anders werken. Vraag wie wat draagt en wat het model daadwerkelijk vervangt.",
+      "verificationSourceIds": [
+        "pbl-circular-strategies"
+      ]
+    },
+    {
+      "id": "lca-is-environmental",
+      "sourceLessonId": "cmhaeziop000a357l0vny8nem",
+      "sourceItemIds": [
+        "fbd7ddb0-c835-49ce-8f7c-3840ea204a7c",
+        "cmhafbpd800q1357lnsytuoml"
+      ],
+      "sourceClaim": "Systeemdenken en LCA integreren sociale, ecologische en economische aspecten voor een complete analyse.",
+      "correction": "Een conventionele milieu-LCA onderzoekt milieueffecten. Sociale en economische analyses moeten aanvullend expliciet worden uitgevoerd; systeemdenken voegt die cijfers niet vanzelf toe. Vergelijk dezelfde functie met heldere grenzen.",
+      "verificationSourceIds": [
+        "iso-lca",
+        "rivm-lca"
+      ]
+    },
+    {
+      "id": "materiality-either-direction",
+      "sourceLessonId": "cmhaeziop000a357l0vny8nem",
+      "sourceItemIds": [
+        "cmhafbpd900qm357lcwxv8iez"
+      ],
+      "sourceClaim": "Een impact/risicomatrix met 0–5 bepaalt wat het meest materieel is.",
+      "correction": "Gebruik een mini-matrix alleen als leeroefening, met toelichting en aannames. Ernstige impact kan materieel zijn zonder hoog financieel risico. Vermijd een vermenigvuldiging of drempel die belangrijke schade bij een lage andere score wegfiltert.",
+      "verificationSourceIds": [
+        "efrag-materiality"
+      ]
+    },
+    {
+      "id": "six-capitals-not-moral-values",
+      "sourceLessonId": "cmhaeziop0006357lrtqkv6ki",
+      "sourceItemIds": [
+        "ikuguioj0ea9qvry5bzypr66",
+        "cmhko9j8j00mk357lvitwnwlk"
+      ],
+      "sourceClaim": "De zes kapitalen heten zes kernwaarden; outputs en impact worden als kapitalen samengevoegd.",
+      "correction": "Kapitalen zijn middelen en relaties. Onderscheid geproduceerde output van gevolgen voor kapitalen, ook verlies en waarde voor anderen. De categorieën zijn een hulpmiddel; niet alles hoeft in euro's of één saldo.",
+      "verificationSourceIds": [
+        "ifrs-capitals",
+        "ifrs-value"
+      ]
+    },
+    {
+      "id": "nature-not-always-safe",
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "cmhaf9noe00m3357lazmkvmad",
+        "cmhaf9noe00m7357l70w2d81z"
+      ],
+      "sourceClaim": "De natuur verspilt niets en werkt met veilige, niet-giftige stoffen; biobased materialen dienen als bewijs.",
+      "correction": "Maak dit ontwerprichtlijnen, geen universele natuurwet. Natuurlijke organismen kunnen toxische stoffen maken. Biobased, lokaal of door natuur geïnspireerd bewijst niet automatisch veiligheid, circulariteit of lagere milieu-impact.",
+      "verificationSourceIds": [
+        "biomimicry-chemistry",
+        "efsa-natural-toxins",
+        "iso-lca"
+      ]
+    },
+    {
+      "id": "cld-chain-not-loop",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "cmi351c5s02op357mztg34kbd",
+        "cmi351nvj02pg357mq02nvxvp",
+        "cmi343glk025o357m2e1bs7lt"
+      ],
+      "sourceClaim": "Open plastic-gevolgketens krijgen het label R-loop en langetermijndominantie wordt zonder model aangenomen.",
+      "correction": "Een terugkoppeling moet sluiten. Meer afval → meer beleidsdruk → betere inzameling → minder afval is bij deze aannames dempend. Een open keten zonder terugweg is nog geen lus. De dominante lus vereist meer informatie over sterkte en tijd, niet alleen een verhaal.",
+      "verificationSourceIds": [
+        "mit-system-dynamics"
+      ]
+    },
+    {
+      "id": "feedback-not-good-bad",
+      "sourceLessonId": "cmhaeziop000a357l0vny8nem",
+      "sourceItemIds": [
+        "f3438af8-0f03-4835-b273-9497588a3819"
+      ],
+      "sourceClaim": "Meer OV → minder files → minder CO₂ heet positief; meer deelmobiliteit → meer productie → hogere emissies heet negatieve feedback.",
+      "correction": "Deze opties zijn ongesloten ketens en de feedbacklabels verwarren wenselijkheid met systeemrichting. Bouw een gesloten lus en bepaal of het terugkerende effect de startverandering versterkt of tegenwerkt. Ongewenst is niet hetzelfde als negatieve feedback.",
+      "verificationSourceIds": [
+        "mit-system-dynamics"
+      ]
+    },
+    {
+      "id": "wicked-not-anything-goes",
+      "sourceLessonId": "cmhaeziop0008357lhy8r6ndk",
+      "sourceItemIds": [
+        "cmhafa70n00n9357lmwas7b7a",
+        "8ef92c3b-9309-4a42-a53d-c976255ad13d"
+      ],
+      "sourceClaim": "Oplossingen zijn subjectief en nooit absoluut goed of fout.",
+      "correction": "Afwegingen kunnen betwist zijn, maar feitelijke aannames, schademechanismen en kwaliteit van bewijs kunnen wel worden getoetst. Geef meerdere verdedigbare plannen, met transparante eisen aan onderbouwing.",
+      "verificationSourceIds": [
+        "rittel-webber"
+      ]
+    },
+    {
+      "id": "power-not-relevance",
+      "sourceLessonId": "cmhaeziop0009357lyn5tu7r2",
+      "sourceItemIds": [
+        "cmi38l2yd0bi7357m4sr9fdtd"
+      ],
+      "sourceClaim": "Lage macht en lage interesse betekent minder aandacht in stakeholderprioritering.",
+      "correction": "Communicatieprioriteit is niet gelijk aan ernst van impact of recht op bescherming. Zoek ook getroffen mensen met weinig macht; laat hun informatie en belangen meetellen.",
+      "verificationSourceIds": [
+        "efrag-materiality"
+      ]
+    },
+    {
+      "id": "provenance-of-examples",
+      "sourceLessonId": "cmhaeziop0007357lmez15izy",
+      "sourceItemIds": [
+        "hjecduosugo1r2davhe9174g",
+        "cmi3238lh00yb357m4oqoiy3p"
+      ],
+      "sourceClaim": "Het Natural Pavilion en verschillende zeer specifieke biologische toepassingen worden als bewezen voorbeelden gebruikt.",
+      "correction": "Neem niet zonder directe projectdocumentatie claims over volledig biobased materiaal, netto energie en biodiversiteitswinst over. Ongeverifieerde toepassingen kunnen als fictief ontwerpvoorstel worden gebruikt, met testvragen; niet als bewezen gerealiseerde technologie.",
+      "verificationSourceIds": [
+        "biomimicry-process"
+      ],
+      "verificationStatus": "Specifieke project- en technologieclaims in deze audit niet bevestigd; daarom weglaten als feit of expliciet als voorstel markeren."
+    }
+  ],
+  "verificationSources": [
+    {
+      "id": "nasa-climate-definition",
+      "title": "NASA — What Is Climate Change?",
+      "url": "https://science.nasa.gov/climate-change/what-is-climate-change/",
+      "supports": "Onderscheid weer, klimaat en langjarige opwarming.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "nasa-climate-causes",
+      "title": "NASA — Causes of Climate Change",
+      "url": "https://science.nasa.gov/climate-change/causes/",
+      "supports": "Menselijke oorzaken, CO₂ en andere broeikasgassen; waterdamp als terugkoppeling.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "nasa-energy-budget",
+      "title": "NASA — Climate and Earth's Energy Budget",
+      "url": "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/",
+      "supports": "Binnenkomend zonlicht, uitgaande warmtestraling en absorptie/emissie door broeikasgassen.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "ipcc-synthesis",
+      "title": "IPCC — AR6 Synthesis Report, Longer Report",
+      "url": "https://www.ipcc.ch/site/assets/uploads/2023/03/Doc5_Adopted_AR6_SYR_Longer_Report.pdf",
+      "supports": "Menselijke opwarming en specifieke klimaatrisico's.",
+      "accessed": "2026-10-13",
+      "accessNote": "Gezaghebbende geïndexeerde passages beschikbaar; directe volledige download gaf een toegangsprobleem. Geen volledige herbeoordeling van het rapport."
+    },
+    {
+      "id": "ipcc-carbon-cycles",
+      "title": "IPCC — AR6 WGI Chapter 5: Global Carbon and Other Biogeochemical Cycles and Feedbacks",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+      "supports": "CO₂-opname en tegengestelde concentratie- en klimaatfeedbacks; ophoping en onzekerheid.",
+      "accessed": "2026-10-13",
+      "accessNote": "Geïndexeerde primaire passages gecontroleerd; directe pagina niet volledig toegankelijk."
+    },
+    {
+      "id": "ipcc-carbon-budget",
+      "title": "IPCC — AR6 Synthesis Report, Full Volume, section 3.3",
+      "url": "https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_FullVolume.pdf",
+      "supports": "Resterende koolstofbudgetten hangen af van kans, doel, begindatum, niet-CO₂ en onzekerheid.",
+      "accessed": "2026-10-13",
+      "accessNote": "Geïndexeerde primaire passage gecontroleerd. Geen verouderd numeriek budget overgenomen."
+    },
+    {
+      "id": "ipcc-energy-feedback",
+      "title": "IPCC — AR6 WGI Chapter 7: Energy Budget, Climate Feedbacks, and Climate Sensitivity",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/",
+      "supports": "Stralingsfeedbacks, waterdamp, ijsreflectie en de complexiteit van wolken.",
+      "accessed": "2026-10-13",
+      "accessNote": "Geïndexeerde primaire passages gecontroleerd."
+    },
+    {
+      "id": "ipcc-sea-level-faq",
+      "title": "IPCC — AR6 WGI Frequently Asked Questions",
+      "url": "https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQs_Compiled.pdf",
+      "supports": "Zeespiegel blijft reageren na netto nul door trage oceanen en ijskappen.",
+      "accessed": "2026-10-13",
+      "accessNote": "Geïndexeerde primaire FAQ-passage gecontroleerd."
+    },
+    {
+      "id": "knmi-scenarios",
+      "title": "KNMI — KNMI'23-klimaatscenario's voor gebruikers",
+      "url": "https://www.knmi.nl/kennis-en-datacentrum/achtergrond/knmi-23-klimaatscenario-s-voor-gebruikers",
+      "supports": "Mogelijke klimaattoekomsten onder aannames; geen voorspelling van het weer op een datum.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "knmi-adaptation",
+      "title": "KNMI — Klimaat van Nederland",
+      "url": "https://www.knmi.nl/klimaat",
+      "supports": "Adaptatie en mitigatie als verschillende, samenhangende handelingsrichtingen.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "doe-hydrogen",
+      "title": "US Department of Energy — Hydrogen Fuel Basics",
+      "url": "https://www.energy.gov/cmei/fuels/hydrogen-fuel-basics",
+      "supports": "Waterstof is een energiedrager en kan via verschillende bronnen worden geproduceerd.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "cbs-emission-sectors",
+      "title": "CBS — Welke sectoren stoten broeikasgassen uit?",
+      "url": "https://www.cbs.nl/nl-nl/dossier/dossier-broeikasgassen/welke-sectoren-stoten-broeikasgassen-uit-",
+      "supports": "Nederlandse klimaatsectorindeling, jaargebonden uitstoot en industrie als grootste in getoonde 2025-cijfers.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "tennet-congestion",
+      "title": "TenneT — Hoe gaat onderzoek naar congestie in zijn werk?",
+      "url": "https://magazines.tennet.eu/nieuwsbrief-netcongestie-april-2025/hoe-gaat-onderzoek-naar-congestie-in-zijn-werk",
+      "supports": "Afname/invoeding groter dan beschikbare transportcapaciteit, en congestiemanagement.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "tennet-load",
+      "title": "TenneT — Netbelasting, de badkuip van TenneT",
+      "url": "https://magazines.tennet.eu/energy-booster-maart-2026/netbelasting-de-badkuip-van-tennet",
+      "supports": "Werkelijk elektriciteitstransport, tijd en netbelasting; locatie en grens zijn essentieel.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "tennet-flexibility",
+      "title": "TenneT — Uitkomst congestiemanagementonderzoek Zeeland",
+      "url": "https://magazines.tennet.eu/nieuwsbrief-netcongestie-juni-2024/uitkomst-congestiemanagementonderzoek-zeeland",
+      "supports": "Gerichte combinatie van technische maatregelen en flexibel vermogen zoals batterijen.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "src-boundaries",
+      "title": "Stockholm Resilience Centre — Planetary Boundaries",
+      "url": "https://www.stockholmresilience.org/research/planetary-boundaries.html",
+      "supports": "Negen samenhangende processen, veilige operationele ruimte en verhoogd risico zonder noodzakelijk onmiddellijke gevolgen.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "src-boundaries-2025",
+      "title": "Stockholm Resilience Centre — Seven of nine planetary boundaries now breached",
+      "url": "https://www.stockholmresilience.org/news--events/general-news/2025-09-24-seven-of-nine-planetary-boundaries-now-breached.html",
+      "supports": "Gedateerde 2025-beoordeling; aantallen zijn geen tijdloze toetskennis.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "rivm-nitrogen",
+      "title": "RIVM — Vragen en antwoorden over stikstof en ammoniak",
+      "url": "https://www.rivm.nl/stikstof/vragen-en-antwoorden-over-stikstof-en-ammoniak",
+      "supports": "Stikstofgas onderscheiden van reactieve verbindingen, bronnen en gevolgen voor natuur.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "un-agenda",
+      "title": "United Nations — Transforming our world: the 2030 Agenda",
+      "url": "https://sdgs.un.org/2030agenda",
+      "supports": "People, Planet, Prosperity; duurzame ontwikkeling en de SDG's.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "elkington-tbl",
+      "title": "John Elkington — Enter the Triple Bottom Line",
+      "url": "https://johnelkington.com/archive/TBL-elkington-chapter",
+      "supports": "Triple Bottom Line als samenhang van bedrijfsdimensies; onderscheid Profit en brede Prosperity.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "pbl-circular-strategies",
+      "title": "PBL — Circular Economy: Measuring Innovation in Product Chains",
+      "url": "https://www.pbl.nl/en/publications/circular-economy-measuring-innovation-in-product-chains",
+      "supports": "Waardebehoud en samenhang tussen ontwerp, verdienmodel, keten en regels.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "pbl-r-ladder",
+      "title": "PBL — Monitoring Circularity Strategies",
+      "url": "https://www.pbl.nl/en/publications/monitoring-circularity-strategies",
+      "supports": "R-strategieën als analysekader; maatwerk, grensgevallen en onderscheid tussen verschillende soorten hergebruik.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "iso-lca",
+      "title": "ISO — ISO 14040:2006, Principles and Framework",
+      "url": "https://www.iso.org/standard/37456.html",
+      "supports": "Milieukundige LCA, doel en reikwijdte, inventarisatie, impactanalyse en interpretatie.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "rivm-lca",
+      "title": "RIVM — What is LCA?",
+      "url": "https://www.rivm.nl/en/life-cycle-assessment-lca/what-is-lca",
+      "supports": "LCA beoordeelt milieueffecten over de levenscyclus; geen automatische sociale of financiële analyse.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "ifrs-capitals",
+      "title": "IFRS Foundation — International Integrated Reporting Framework",
+      "url": "https://www.ifrs.org/content/dam/ifrs/integrated-reporting/framework-and-translations/integratedreporting-framework-061024.pdf",
+      "supports": "Zes kapitalen en waarde creëren, behouden of aantasten; categorieën als hulpmiddel en niet als verplichte geldscore.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "ifrs-value",
+      "title": "IFRS Foundation — Integrated Reporting FAQs",
+      "url": "https://integratedreporting.ifrs.org/faqs/",
+      "supports": "Afhankelijkheden en afruilen; geen eis om één netto waardecijfer te berekenen.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "efrag-materiality",
+      "title": "EFRAG — IG 1 Materiality Assessment Implementation Guidance, May 2024",
+      "url": "https://www.efrag.org/sites/default/files/sites/webpublishing/SiteAssets/EFRAG%20IG%201%20Materiality%20Assessment%20May%202024.pdf",
+      "supports": "Impact en financiële materialiteit; een onderwerp hoeft niet beide drempels te passeren. Deze toelichting is niet-bindend en vervangt geen actuele wetstoets.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "biomimicry-process",
+      "title": "Biomimicry Institute — The Biomimicry Process",
+      "url": "https://toolbox.biomimicry.org/methods/process/",
+      "supports": "Functie onderzoeken, biologisch mechanisme vertalen, ontwerp testen en evalueren.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "biomimicry-chemistry",
+      "title": "Biomimicry Institute — Use Safe Chemistry",
+      "url": "https://toolbox.biomimicry.org/core-concepts/natures-unifying-patterns/chemistry/",
+      "supports": "Life-friendly chemistry als ontwerpprincipe en levenscyclusvraag.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "efsa-natural-toxins",
+      "title": "EFSA — Botanicals",
+      "url": "https://www.efsa.europa.eu/cnr/topics/topic/botanicals",
+      "supports": "Natuurlijke stoffen kunnen gezondheidsrisico's hebben; natuurlijk betekent niet automatisch veilig.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "mit-system-dynamics",
+      "title": "MIT OpenCourseWare — Introduction to Engineering Systems, Lecture 2",
+      "url": "https://ocw.mit.edu/courses/esd-00-introduction-to-engineering-systems-spring-2011/816df198baedb3b544ab4148ce86927d_MITESD_00S11_lec02.pdf",
+      "supports": "CLD-polariteit, gesloten feedback, aannames, grenzen en verschil tussen causaal diagram en simulatie.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "meadows-leverage",
+      "title": "Donella Meadows — Leverage Points: Places to Intervene in a System",
+      "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+      "supports": "Structuren, regels, informatiestromen en doelen als mogelijke hefbomen; geen universeel recept.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "rittel-webber",
+      "title": "Rittel and Webber — Dilemmas in a General Theory of Planning",
+      "url": "https://doi.org/10.1007/BF01405730",
+      "supports": "Wicked problems, betwiste doelen en gebrek aan een ongekwalificeerde optimale oplossing.",
+      "accessed": "2026-10-13"
+    },
+    {
+      "id": "iea-variable-renewables",
+      "title": "IEA - Integrating Solar and Wind, Executive Summary",
+      "url": "https://www.iea.org/reports/integrating-solar-and-wind/executive-summary",
+      "supports": "Weersafhankelijke opwek, flexibiliteit, netwerken, opslag en vraagsturing als samenhangende onderdelen van betrouwbare integratie.",
+      "accessed": "2026-10-13"
+    }
+  ],
+  "source": {
+    "file": "sources/original-course.json",
+    "courseId": "3pcfK2GVe208MVyT1DB3iYzG2P63XDl1",
+    "repo": "FabianB88/minor-ce-elearnings",
+    "commit": "de712d3616e669404cded8711e2ed1dc317deec9",
+    "path": "courses/duurzaamheid-fundamenten/scormcontent/index.html",
+    "guide": "https://fabianb88.github.io/minor-ce-studentenhandleiding/learnings.html",
+    "reviewScope": "Alle geschreven uitleg, tabs, oefenopdrachten, vragen en feedback uit acht inhoudelijke lessen en de synthese gelezen. Alle 303 bronblokken geïnventariseerd, inclusief mediatitels en beschrijvingen. Externe video's niet volledig bekeken; geen claim dat hun volledige inhoud is vervangen.",
+    "selectionBasis": "De docent kiest de relevante kern, met klimaatverandering als begin. Dit is een onderbouwde inhoudsselectie en correctie-audit, geen systematische literatuurreview of bewijs van leereffectiviteit."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "testedOn": "2026-10-13",
+  "content": {"sourceLessons": 9, "sourceBlocksCatalogued": 303, "essentialConcepts": 36, "supportingConcepts": 2, "referenceOnlyConcepts": 2, "sourceCorrections": 23, "primaryVerificationSources": 34},
+  "functional": {"activityActions": 136, "activityKinds": 13, "episodeGates": 8, "reachablePoints": 29, "walkingRegions": 5, "fieldApplications": 6, "futureImages": 2, "alternateValidSolutions": ["energy", "life-cycle comparisons", "maintenance contracts", "water", "prototypes", "strategy"]},
+  "browserChecks": ["Ordinary climate route from fresh save", "WASD displacement and click walking", "Both inspected possible futures", "Worldflight and mangrove landing", "Field inference and notebook", "All 13 workforms in isolated admin preview", "Live energy input, concrete failure and accepted success", "Preview leaves ordinary save unchanged", "390px mobile world, modal and notes", "40 concept rows and four research records in source dossier"],
+  "scriptFiles": ["scripts/test-game.mjs", "scripts/test-activities.mjs"],
+  "limits": ["Functional and source tests do not measure student learning gains.", "Futures and locations are fictional, not local climate forecasts.", "Model results apply to their stated illustrative assumptions.", "Free written notes are not automatically judged as correct.", "The canvas world is not claimed to have complete screenreader equivalence."]
+}

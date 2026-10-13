@@ -1,0 +1,4 @@
+qa/
+node_modules/
+sources/original-course.json
+*.zip

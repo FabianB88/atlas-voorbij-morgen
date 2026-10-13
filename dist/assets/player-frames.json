@@ -1,0 +1,671 @@
+{
+  "schemaVersion": 1,
+  "player": {
+    "file": "player-walk.png",
+    "width": 1254,
+    "height": 1254,
+    "format": "RGBA PNG",
+    "grid": {
+      "columns": 4,
+      "rows": 4,
+      "nominalCellWidth": 313.5,
+      "nominalCellHeight": 313.5,
+      "integerCellBoundariesX": [
+        0,
+        314,
+        627,
+        940,
+        1254
+      ],
+      "integerCellBoundariesY": [
+        0,
+        314,
+        627,
+        940,
+        1254
+      ]
+    },
+    "directions": [
+      "south",
+      "east",
+      "north",
+      "west"
+    ],
+    "framesPerDirection": 4,
+    "recommendedFrameDurationMs": 150,
+    "frames": [
+      {
+        "row": 0,
+        "column": 0,
+        "direction": "south",
+        "gaitIndex": 0,
+        "cellRect": {
+          "x": 0,
+          "y": 0,
+          "width": 314,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 116,
+          "y": 24,
+          "width": 117,
+          "height": 272
+        },
+        "sourceRect": {
+          "x": 113,
+          "y": 21,
+          "width": 123,
+          "height": 278
+        },
+        "footAnchorInCell": {
+          "x": 174.24,
+          "y": 295
+        },
+        "footAnchorInSourceRect": {
+          "x": 61.24,
+          "y": 274
+        },
+        "footAnchorInSheet": {
+          "x": 174.24,
+          "y": 295
+        },
+        "bodyVisibleHeight": 268
+      },
+      {
+        "row": 0,
+        "column": 1,
+        "direction": "south",
+        "gaitIndex": 1,
+        "cellRect": {
+          "x": 314,
+          "y": 0,
+          "width": 313,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 419,
+          "y": 27,
+          "width": 115,
+          "height": 270
+        },
+        "sourceRect": {
+          "x": 416,
+          "y": 24,
+          "width": 121,
+          "height": 276
+        },
+        "footAnchorInCell": {
+          "x": 161.63,
+          "y": 296
+        },
+        "footAnchorInSourceRect": {
+          "x": 59.63,
+          "y": 272
+        },
+        "footAnchorInSheet": {
+          "x": 475.63,
+          "y": 296
+        },
+        "bodyVisibleHeight": 267
+      },
+      {
+        "row": 0,
+        "column": 2,
+        "direction": "south",
+        "gaitIndex": 2,
+        "cellRect": {
+          "x": 627,
+          "y": 0,
+          "width": 313,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 723,
+          "y": 25,
+          "width": 114,
+          "height": 272
+        },
+        "sourceRect": {
+          "x": 720,
+          "y": 22,
+          "width": 120,
+          "height": 278
+        },
+        "footAnchorInCell": {
+          "x": 151.72,
+          "y": 296
+        },
+        "footAnchorInSourceRect": {
+          "x": 58.72,
+          "y": 274
+        },
+        "footAnchorInSheet": {
+          "x": 778.72,
+          "y": 296
+        },
+        "bodyVisibleHeight": 269
+      },
+      {
+        "row": 0,
+        "column": 3,
+        "direction": "south",
+        "gaitIndex": 3,
+        "cellRect": {
+          "x": 940,
+          "y": 0,
+          "width": 314,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 1030,
+          "y": 24,
+          "width": 114,
+          "height": 272
+        },
+        "sourceRect": {
+          "x": 1027,
+          "y": 21,
+          "width": 120,
+          "height": 278
+        },
+        "footAnchorInCell": {
+          "x": 145.94,
+          "y": 295
+        },
+        "footAnchorInSourceRect": {
+          "x": 58.94,
+          "y": 274
+        },
+        "footAnchorInSheet": {
+          "x": 1085.94,
+          "y": 295
+        },
+        "bodyVisibleHeight": 268
+      },
+      {
+        "row": 1,
+        "column": 0,
+        "direction": "east",
+        "gaitIndex": 0,
+        "cellRect": {
+          "x": 0,
+          "y": 314,
+          "width": 314,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 93,
+          "y": 327,
+          "width": 162,
+          "height": 282
+        },
+        "sourceRect": {
+          "x": 90,
+          "y": 324,
+          "width": 168,
+          "height": 288
+        },
+        "footAnchorInCell": {
+          "x": 156.37,
+          "y": 294
+        },
+        "footAnchorInSourceRect": {
+          "x": 66.37,
+          "y": 284
+        },
+        "footAnchorInSheet": {
+          "x": 156.37,
+          "y": 608
+        },
+        "bodyVisibleHeight": 278
+      },
+      {
+        "row": 1,
+        "column": 1,
+        "direction": "east",
+        "gaitIndex": 1,
+        "cellRect": {
+          "x": 314,
+          "y": 314,
+          "width": 313,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 420,
+          "y": 325,
+          "width": 108,
+          "height": 283
+        },
+        "sourceRect": {
+          "x": 417,
+          "y": 322,
+          "width": 114,
+          "height": 289
+        },
+        "footAnchorInCell": {
+          "x": 155.5,
+          "y": 293
+        },
+        "footAnchorInSourceRect": {
+          "x": 52.5,
+          "y": 285
+        },
+        "footAnchorInSheet": {
+          "x": 469.5,
+          "y": 607
+        },
+        "bodyVisibleHeight": 278
+      },
+      {
+        "row": 1,
+        "column": 2,
+        "direction": "east",
+        "gaitIndex": 2,
+        "cellRect": {
+          "x": 627,
+          "y": 314,
+          "width": 313,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 709,
+          "y": 329,
+          "width": 175,
+          "height": 274
+        },
+        "sourceRect": {
+          "x": 706,
+          "y": 326,
+          "width": 181,
+          "height": 280
+        },
+        "footAnchorInCell": {
+          "x": 159.12,
+          "y": 289
+        },
+        "footAnchorInSourceRect": {
+          "x": 80.12,
+          "y": 277
+        },
+        "footAnchorInSheet": {
+          "x": 786.12,
+          "y": 603
+        },
+        "bodyVisibleHeight": 272
+      },
+      {
+        "row": 1,
+        "column": 3,
+        "direction": "east",
+        "gaitIndex": 3,
+        "cellRect": {
+          "x": 940,
+          "y": 314,
+          "width": 314,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 1034,
+          "y": 330,
+          "width": 153,
+          "height": 271
+        },
+        "sourceRect": {
+          "x": 1031,
+          "y": 327,
+          "width": 159,
+          "height": 277
+        },
+        "footAnchorInCell": {
+          "x": 153.61,
+          "y": 286
+        },
+        "footAnchorInSourceRect": {
+          "x": 62.61,
+          "y": 273
+        },
+        "footAnchorInSheet": {
+          "x": 1093.61,
+          "y": 600
+        },
+        "bodyVisibleHeight": 268
+      },
+      {
+        "row": 2,
+        "column": 0,
+        "direction": "north",
+        "gaitIndex": 0,
+        "cellRect": {
+          "x": 0,
+          "y": 627,
+          "width": 314,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 109,
+          "y": 650,
+          "width": 117,
+          "height": 279
+        },
+        "sourceRect": {
+          "x": 106,
+          "y": 647,
+          "width": 123,
+          "height": 285
+        },
+        "footAnchorInCell": {
+          "x": 166.46,
+          "y": 301
+        },
+        "footAnchorInSourceRect": {
+          "x": 60.46,
+          "y": 281
+        },
+        "footAnchorInSheet": {
+          "x": 166.46,
+          "y": 928
+        },
+        "bodyVisibleHeight": 275
+      },
+      {
+        "row": 2,
+        "column": 1,
+        "direction": "north",
+        "gaitIndex": 1,
+        "cellRect": {
+          "x": 314,
+          "y": 627,
+          "width": 313,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 419,
+          "y": 649,
+          "width": 110,
+          "height": 270
+        },
+        "sourceRect": {
+          "x": 416,
+          "y": 646,
+          "width": 116,
+          "height": 276
+        },
+        "footAnchorInCell": {
+          "x": 159.85,
+          "y": 291
+        },
+        "footAnchorInSourceRect": {
+          "x": 57.85,
+          "y": 272
+        },
+        "footAnchorInSheet": {
+          "x": 473.85,
+          "y": 918
+        },
+        "bodyVisibleHeight": 267
+      },
+      {
+        "row": 2,
+        "column": 2,
+        "direction": "north",
+        "gaitIndex": 2,
+        "cellRect": {
+          "x": 627,
+          "y": 627,
+          "width": 313,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 722,
+          "y": 649,
+          "width": 115,
+          "height": 281
+        },
+        "sourceRect": {
+          "x": 719,
+          "y": 646,
+          "width": 121,
+          "height": 287
+        },
+        "footAnchorInCell": {
+          "x": 150.7,
+          "y": 302
+        },
+        "footAnchorInSourceRect": {
+          "x": 58.7,
+          "y": 283
+        },
+        "footAnchorInSheet": {
+          "x": 777.7,
+          "y": 929
+        },
+        "bodyVisibleHeight": 277
+      },
+      {
+        "row": 2,
+        "column": 3,
+        "direction": "north",
+        "gaitIndex": 3,
+        "cellRect": {
+          "x": 940,
+          "y": 627,
+          "width": 314,
+          "height": 313
+        },
+        "visibleBoundsAlpha8": {
+          "x": 1030,
+          "y": 647,
+          "width": 115,
+          "height": 275
+        },
+        "sourceRect": {
+          "x": 1027,
+          "y": 644,
+          "width": 121,
+          "height": 281
+        },
+        "footAnchorInCell": {
+          "x": 148.74,
+          "y": 294
+        },
+        "footAnchorInSourceRect": {
+          "x": 61.74,
+          "y": 277
+        },
+        "footAnchorInSheet": {
+          "x": 1088.74,
+          "y": 921
+        },
+        "bodyVisibleHeight": 271
+      },
+      {
+        "row": 3,
+        "column": 0,
+        "direction": "west",
+        "gaitIndex": 0,
+        "cellRect": {
+          "x": 0,
+          "y": 940,
+          "width": 314,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 79,
+          "y": 950,
+          "width": 160,
+          "height": 271
+        },
+        "sourceRect": {
+          "x": 76,
+          "y": 947,
+          "width": 166,
+          "height": 277
+        },
+        "footAnchorInCell": {
+          "x": 171.88,
+          "y": 280
+        },
+        "footAnchorInSourceRect": {
+          "x": 95.88,
+          "y": 273
+        },
+        "footAnchorInSheet": {
+          "x": 171.88,
+          "y": 1220
+        },
+        "bodyVisibleHeight": 268
+      },
+      {
+        "row": 3,
+        "column": 1,
+        "direction": "west",
+        "gaitIndex": 1,
+        "cellRect": {
+          "x": 314,
+          "y": 940,
+          "width": 313,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 397,
+          "y": 950,
+          "width": 144,
+          "height": 269
+        },
+        "sourceRect": {
+          "x": 394,
+          "y": 947,
+          "width": 150,
+          "height": 275
+        },
+        "footAnchorInCell": {
+          "x": 164.82,
+          "y": 278
+        },
+        "footAnchorInSourceRect": {
+          "x": 84.82,
+          "y": 271
+        },
+        "footAnchorInSheet": {
+          "x": 478.82,
+          "y": 1218
+        },
+        "bodyVisibleHeight": 266
+      },
+      {
+        "row": 3,
+        "column": 2,
+        "direction": "west",
+        "gaitIndex": 2,
+        "cellRect": {
+          "x": 627,
+          "y": 940,
+          "width": 313,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 687,
+          "y": 951,
+          "width": 173,
+          "height": 269
+        },
+        "sourceRect": {
+          "x": 684,
+          "y": 948,
+          "width": 179,
+          "height": 275
+        },
+        "footAnchorInCell": {
+          "x": 154.74,
+          "y": 279
+        },
+        "footAnchorInSourceRect": {
+          "x": 97.74,
+          "y": 271
+        },
+        "footAnchorInSheet": {
+          "x": 781.74,
+          "y": 1219
+        },
+        "bodyVisibleHeight": 266
+      },
+      {
+        "row": 3,
+        "column": 3,
+        "direction": "west",
+        "gaitIndex": 3,
+        "cellRect": {
+          "x": 940,
+          "y": 940,
+          "width": 314,
+          "height": 314
+        },
+        "visibleBoundsAlpha8": {
+          "x": 1004,
+          "y": 950,
+          "width": 156,
+          "height": 270
+        },
+        "sourceRect": {
+          "x": 1001,
+          "y": 947,
+          "width": 162,
+          "height": 276
+        },
+        "footAnchorInCell": {
+          "x": 155.87,
+          "y": 279
+        },
+        "footAnchorInSourceRect": {
+          "x": 94.87,
+          "y": 272
+        },
+        "footAnchorInSheet": {
+          "x": 1095.87,
+          "y": 1219
+        },
+        "bodyVisibleHeight": 268
+      }
+    ],
+    "anchorMethod": "Horizontal alpha-weighted centre of torso (22–62% of opaque body height); vertical anchor is lowest visible foot pixel at alpha >=128. Coordinates are measured from generated art, not fabricated.",
+    "renderingNotes": [
+      "Use sourceRect with footAnchorInSourceRect, or cellRect with footAnchorInCell. Align this anchor to the actor ground point.",
+      "The original raster is unmodified. Cell dimensions alternate 314/313 pixels because the generator returned 1254 pixels.",
+      "All four directions and alternating leg/arm movement are visibly present. This is a hand-painted four-frame cycle, with some remaining gait and silhouette variation; not a rigged skeletal animation.",
+      "Frame identity is visually consistent. Per-frame anchors correct the generated horizontal drift. Foot-anchor height varies by up to 11 pixels within a direction, and measured opaque body height ranges from 266 to 278 pixels (4.5%).",
+      "Row0 and row2 are more top-down than the profile rows; keep movement scale consistent in runtime."
+    ]
+  },
+  "craft": {
+    "file": "survey-craft.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "RGBA PNG",
+    "transparentBoundingBoxAlpha8": {
+      "x": 49,
+      "y": 13,
+      "width": 1441,
+      "height": 963
+    },
+    "pivotInSheet": {
+      "x": 770,
+      "y": 495
+    },
+    "pivotNormalized": {
+      "x": 0.501302,
+      "y": 0.483398
+    },
+    "visualNoseApproximate": {
+      "x": 452,
+      "y": 713
+    },
+    "baseNoseAngleDegreesCanvas": 146,
+    "angleConvention": "0 degrees is screen right; positive rotates clockwise because canvas y points down. Approximate visual bearing measured from pivot to nose.",
+    "renderingNotes": [
+      "Nose points down-left in the generated art. To face travel bearing theta, rotate by theta minus 146 degrees.",
+      "This is a single oblique sprite. Free screen rotation is usable for flight, but is not a full set of perspective-correct compass views.",
+      "Full original alpha preserved; maximum alpha is 254 rather than 255. Near-transparent antialias fringe remains.",
+      "No person or baked-in ground shadow."
+    ]
+  }
+}

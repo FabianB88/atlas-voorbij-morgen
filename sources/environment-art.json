@@ -1,0 +1,73 @@
+{
+  "generatedOn": "2026-10-13",
+  "tool": "Built-in image_gen.imagegen",
+  "environmentRule": "Geen ingebakken personen, tekst of UI. Losse personages worden door het spel getekend.",
+  "originalsRetained": true,
+  "encoding": "Originele PNG's behouden; WebP quality 91/method 6 is uitsluitend bestandscompressie.",
+  "assets": [
+    {
+      "file": "coast-now",
+      "source": "exec-811b1aa9-ffe8-40aa-87d1-ed6c416187ad.png",
+      "promptSummary": "Volwassen geschilderde kustonderzoeksplek: warmtepost, meetarchief, herkenbaar bronzen tijdvenster en landingsplaats; vrij toegankelijke zichtbare paden."
+    },
+    {
+      "file": "coast-pressure",
+      "source": "exec-52d9f96e-f357-4c13-b721-e187da71cd14.png",
+      "editOf": "coast-now",
+      "promptSummary": "Zelfde camera, gebouwen en paden in een verbeelde toekomst onder druk: droge vegetatie, hitte en kustschade; geen exacte prognose."
+    },
+    {
+      "file": "coast-recovery",
+      "source": "exec-1ad8f6b7-9183-4441-94df-c5530fdc96a9.png",
+      "editOf": "coast-now",
+      "promptSummary": "Zelfde herkenbare kustplek met schaduw, wateropvang, herstelstroken en onderhoud; verbeelde beter voorbereide toekomst."
+    },
+    {
+      "file": "workshop",
+      "source": "exec-87063e24-04de-4fe5-ac71-32f16fcf44d1.png",
+      "promptSummary": "Circulaire reparatiehaven met werkbank, materialen, zonnepanelen, energie-infrastructuur, landingsplaats en ruime paden."
+    },
+    {
+      "file": "valley",
+      "source": "exec-649b66b4-650e-4942-a995-dc82d7471e6c.png",
+      "promptSummary": "Levende onderzoeksvallei met stroom, proefvelden, natuurlijke ontwerpstructuren, solar onderzoeksplek en verbonden paden."
+    },
+    {
+      "file": "glacier",
+      "source": "exec-62697333-8054-41f1-b855-f33fc40d6b9c.png",
+      "prompt": "Create a beautiful polished background for an adult educational point-and-click world adventure, painterly realism with sophisticated natural light, teal/copper/stone colour language. Wide aerial-oblique isometric mountain glacier field expedition in Scandinavian-type terrain. IMPORTANT no humans or characters anywhere, no UI, no words, no lettering, no labels, no grids. 1536x1024 landscape composition. Foreground bottom 65% is open walkable rocky paths, broad gentle switchback footpaths visibly connected, rocks bordering paths, low safe wooden observation decks. Upper middle shows a retreating glacier with a clearly visible turquoise meltwater lake at its foot; a tiny autonomous measuring station left middle, old dark rock ridgeline and brighter snowfield behind. Make environmental contrast legible: bare darker moraine beside white ice, stream flowing from meltwater lake. One large empty circular bronze/teal landing pad near far right middle around x=.86 y=.60, reachable by broad path; a viewing platform middle around .55,.58; open tiny measurement shelter .23,.63; an old moraine marker stones .42,.75. Mountain background, magnificent scale, plausible environment, no apocalyptic exaggerated disaster, subtle warm dusk lighting, excellent artwork and coherent physical landscape. Deeply immersive finished game scene, not infographic. No people baked into artwork."
+    },
+    {
+      "file": "mangrove",
+      "source": "exec-8a434ad9-8e47-42a7-81a8-686e933bcdb8.png",
+      "prompt": "Create a beautiful polished background for an adult educational point-and-click world adventure, painterly realism with sophisticated natural light, matching teal/copper/stone colours. Wide elevated oblique/isometric tropical mangrove coast research landing. IMPORTANT no humans, no characters, no UI, no words, no lettering, no labels. 1536x1024 landscape composition. A lagoon in the upper third, roots of mature mangroves visibly holding muddy shore at left upper middle, open clearing with restored young mangroves at centre, and a neighbouring cleared hard-edged shore with a modest building and fishing dock toward right upper middle: show contrasting land management choices without villains or catastrophes. The bottom 65% consists of a beautiful broad connected wooden boardwalk and stable sandy paths, reachable small observation platforms, clear adult adventure walkable space, no maze, no tight gaps. Empty round bronze/teal landing pad near far right middle around x=.86 y=.62 with connected broad boardwalk. Root observation deck .25,.62, water gauge .49,.72, community equipment shelter with fishing nets and rain tanks .66,.78. Nature and livelihood both visible, rich light through trees, beautiful turquoise coastal water, realistic vegetation, high quality mature game environment. No people baked into artwork."
+    }
+  ],
+  "map": {
+    "file": "dist/assets/earth-land.geojson",
+    "provider": "Natural Earth",
+    "license": "Public domain",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_land.geojson",
+    "blob": "04811d72fff2701ec67587e30ad8942675b511e3",
+    "usage": "Werkelijke continentvormen, fictieve onderzoekslocaties."
+  },
+  "sceneSources": [
+    {
+      "label": "NASA · Global Warming",
+      "url": "https://science.nasa.gov/earth/climate-change/global-warming/"
+    },
+    {
+      "label": "NOAA · Mangroves",
+      "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
+    },
+    {
+      "label": "NOAA · Coastal resiliency",
+      "url": "https://www.fisheries.noaa.gov/news/coastal-resiliency"
+    },
+    {
+      "label": "NOAA · Coastal blue carbon",
+      "url": "https://www.fisheries.noaa.gov/national/habitat-conservation/protecting-coastal-blue-carbon-through-habitat-conservation"
+    }
+  ],
+  "limits": "Landschappen zijn fictieve landschapstypen. De afbeeldingen vormen geen meetgegevens. De twee toekomstbeelden verschillen in meerdere aannames, geen gecontroleerd experiment met één oorzaak."
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "createdDate": "2026-10-13",
+  "project": "Duurzame Waarde — world adventure",
+  "generationTool": "Built-in image_gen.imagegen (transparent_background=true)",
+  "selectedAssets": [
+    {
+      "role": "player-walk",
+      "useCase": "stylized-concept",
+      "runtimePath": "dist/assets/player-walk.png",
+      "originalPath": "sources/character-originals/jules-walk-generated.png",
+      "generatedSourcePath": "C:/Users/seube/.codex/generated_images/01a134d2-7b6b-71a2-9399-ff4b52562dea/exec-c180af89-34fa-48e7-becd-a00a04bdaebd.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "sha256": "df64283a359e4ecee80cd2c9cbdfaae4decabdd08ff797e84662f49c8afdd983",
+      "prompt": "Use case: stylized-concept\nAsset type: production-ready transparent character animation sprite sheet for a mature 2.5D top-down exploration adventure.\nPrimary request: A square 4-column x 4-row sprite sheet, EXACTLY 16 equal square cells, each containing the same young adult human field researcher named Jules. Moss-green plain outdoor jacket, dark navy trousers, sturdy brown shoes, small terracotta backpack. Human adult proportions, understated hair and face. Refined hand-painted gouache adventure game art with teal/copper/cream palette, clean readable silhouette at game scale.\nComposition: oblique top-down camera about 35 degrees above horizon, full body with head, hands and feet visible. Each figure same scale, centered in cell, ample transparent margins, SAME fixed standing foot/ground anchor near 86% of cell height, no clipped edges.\nAnimation specification (critical):\nRow 1: walking SOUTH toward camera, frames 1-4 of a coherent gait: left foot forward/right arm forward; passing pose; right foot forward/left arm forward; opposite passing pose.\nRow 2: walking EAST toward right of canvas, true right-side profile, four consecutive coherent gait frames with alternating visible foot stride and opposite arm swing.\nRow 3: walking NORTH away from camera, back and terracotta backpack visible, four coherent gait frames.\nRow 4: walking WEST toward left of canvas, true left-side profile, four coherent gait frames.\nFrame 1 and frame 3 MUST show opposite strides, and frame 2 and frame 4 must connect between them. No duplicate standing poses. No drift in identity, scale or anchor. Equal cell grid completely invisible.\nScene/backdrop: genuinely transparent alpha only.\nAvoid: grid lines, checkerboard printed in image, text, labels, numbers, shadows underneath, decorative borders, circular tile bases, floor, extra objects, weapons, chibi/cartoon child proportions.\nDeliver ONE complete aligned 4x4 square sheet of sprites, not concept sketches or a character turnaround poster.",
+      "postProcessing": "None: original generated PNG copied byte-for-byte. Read-only Pillow used solely for alpha measurements and JSON frame metadata.",
+      "spriteMetadata": "dist/assets/player-frames.json",
+      "visualInspection": {
+        "accepted": true,
+        "observations": [
+          "Four directions are recognizable and ordered south, east, north, west.",
+          "Four distinct gait images per direction, with visible alternating arm/leg movement. Frame 1/3 are opposite strides and frame 2/4 passing phases.",
+          "Consistent moss-green jacket, navy trousers, terracotta backpack, adult proportions and transparent alpha.",
+          "Face/hair and clothing identity are consistent at intended small game scale."
+        ],
+        "limitations": [
+          "Raster output 1254×1254 does not divide exactly into four integer-sized cells. Metadata provides integer crop boundaries.",
+          "Generated row/column alignment drifts; runtime foot anchors correct it without modifying the raster.",
+          "Four painted poses, not a skeletal animation. Small body/foot-height variations and camera-angle variation remain.",
+          "Last row feet are about 20 px higher in their cells than the other rows; per-frame anchors make the row change render at the same ground point."
+        ]
+      }
+    },
+    {
+      "role": "survey-craft",
+      "useCase": "stylized-concept",
+      "runtimePath": "dist/assets/survey-craft.png",
+      "originalPath": "sources/character-originals/survey-craft-generated.png",
+      "generatedSourcePath": "C:/Users/seube/.codex/generated_images/01a134d2-7b6b-71a2-9399-ff4b52562dea/exec-4aa14945-5852-4681-8154-c3b69fa9fd4f.png",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "sha256": "f4f63f9c4a06cc718dc30c4c8ac31dedfdc4146cb59fb76be50a408fe491d5a6",
+      "prompt": "Use case: stylized-concept\nAsset type: single transparent flight vehicle game sprite for a mature 2.5D top-down world exploration adventure.\nPrimary request: one small compact survey flightcraft, a beautifully crafted personal glider with teal enamel fuselage, copper structural details, cream narrow swept wings and two small ducted rotors mounted symmetrically beside the central cockpit. Low quiet electric reconnaissance vehicle used by Jules the field researcher. Readable single cohesive silhouette, refined and practical, no weapons.\nCamera: oblique top-down view, same camera as hand-painted walking adventure sprites, about 35 degrees above horizon. Craft points towards upper right of image. Entire wings, rotors and tail visible with generous transparent margins. Small enclosed glass cockpit with understated interior; no visible person or face. Central pivot at craft centre.\nStyle/medium: refined hand-painted gouache game concept-art with clean edges, subtly textured materials, mature editorial adventure aesthetic, teal/copper/cream palette.\nScene/backdrop: genuine transparent alpha.\nConstraints: exactly ONE craft, isolated, no other objects, no clouds, ground, background, scenic vignette, pedestal, drop shadow beneath, UI, labels, lettering, logos or border. No cartoon child aesthetic, no photorealistic 3D toy. Output a production asset that can be moved freely over a painted world map.",
+      "postProcessing": "None: original generated PNG copied byte-for-byte, preserving full generated alpha.",
+      "spriteMetadata": "dist/assets/player-frames.json",
+      "visualInspection": {
+        "accepted": true,
+        "observations": [
+          "One coherent teal/copper/cream survey glider with two ducted rotors, complete wings and an enclosed cockpit.",
+          "No visible people, weapons, logos or scene background.",
+          "Actual transparent alpha; max alpha 254 rather than 255, with a thin antialias fringe."
+        ],
+        "limitations": [
+          "Generated nose points down-left rather than requested upper-right; metadata gives approximate 146-degree bearing for runtime rotation.",
+          "A single oblique view can rotate over the map; it is not a perspective-correct multi-direction vehicle atlas."
+        ]
+      }
+    }
+  ],
+  "alphaPolicy": "Original generated alpha is fully preserved. Source rectangles describe conservative visual bounds; whole-cell rendering can preserve even near-transparent fringe.",
+  "rights": "Original AI-generated project art; no third-party characters or brand imagery referenced."
+}
